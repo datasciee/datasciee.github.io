@@ -26,15 +26,15 @@ Tahtmise korral leiab palju andmeteaduse-teemalisi ja seotud inglisekeelseid kur
 Siin on ettevõtted, mis mingil viisil kasutavad oma tegevuses andmeteadust (ja potentsiaalselt palkavad inimesi, kes sellega tegelevad).
 
 * [**Adcash**](http://www.adcash.com/) – kuuldavasti analüüsitakse seal reklaamiandmeid.
-* [**andmeteadus.ee**](http://andmeteadus.ee/) on (vist Eesti esimene ja siiani ainuke) puhtalt andmeteaduse konsultatsioonile suunatud ettevõte.
+* [**andmeteadus.ee**](http://andmeteadus.ee/) on (vist Eesti esimene ja ainuke) puhtalt andmeteaduse konsultatsioonile suunatud ettevõte.
 * [**Bondora**](https://www.bondora.ee/) on otsinud inimesi oma laienevasse andmeteaduse tiimi (allikas: meil TÜ kinnisesse meililisti).
 * **Eesti Energia** Energiamüügi alaüksuses analüüsitakse “klientide liikumist, klientide profiilide segmenteerimist ja tulevikutehingute hinnastamist” (allikas: praktikapakkumine tudengitele).
-* [**Funderbeam**](https://funderbeam.com/) analüüsib idufirmasid ja tegeleb samuti andmeteadusega.
+* [**Funderbeam**](https://funderbeam.com/) analüüsib idufirmasid ja tegeleb andmeteadusega.
 * **Nortal** [otsib](http://www.nortal.com/careers/recent-openings/52) andmeteadlast oma Omaani kontorisse.
-* **Skype**'is tehakse andmeteadust erinevates tiimides -- näiteks kõne kvaliteedi parandamiseks, aga ka maksete ja pettuse vältimise osas.
+* **Skype**'is tehakse andmeteadust erinevates tiimides -- näiteks kõne kvaliteedi parandamiseks, aga ka pettuse vältimise ja maksete osas.
 * [**Teleport.org**](https://teleport.org/) kasutab maakera erinevaid andmekihte, et aidata inimestel optimeerida oma elukohta.
 * **TransferWise**'is otsitakse aeg-ajalt andmeteadlase profiilile vastavaid inimesi Growth Analysti nime all kliendibaasi analüüsima ja kasvatama.
-* [**Xpressomics**](https://xpressomics.com/about/) ja [Quretec](http://www.quretec.com/) teevad rohkem teadusega (bioinformaatika ja terviseandmed) seotud andmekaevet.
+* [**Xpressomics**](https://xpressomics.com/about/) ja [**Quretec**](http://www.quretec.com/) teevad rohkem teadusega (bioinformaatika ja terviseandmed) seotud andmekaevet.
 
 
 ## Panustajad
