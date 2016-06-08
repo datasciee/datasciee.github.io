@@ -15,9 +15,26 @@ Kõik nimekirjad on tähestikulises järjekorras.
 
 ## Eestikeelsed kursused ja materjalid
 
+Praegu eesti keeles eriti materjale ei ole. Ainuke on kursus Statistiline andmeteadus ja visualiseerimine ([2015](http://andmeteadus.github.io/2015), [2016](http://andmeteadus.github.io/2016)), mille korraldamisega alustasid Tartu Ülikoolis Kaspar Märtens ja Tanel Pärnamaa ning jätkasid Mark Gimbutas ja Siim Viigand. Kõik õppematerjalid (v.a. mõned konfidentsiaalsed andmehulgad) on avalikud (vt [GitHubist](https://github.com/andmeteadus)).
+
+Kursus on põnev selle poolest, et aines toimuvadki ainult praktikumid (mille täpsed juhised on aine kodulehel kättesaadavad!) ja loengute asemel on viited erinevatele huvitavatele videotele ja artiklitele. Käsitletakse andmete kraapimist, puhastamist, analüüsi, visualiseerimist jm. Peamised märksõnad: R, knitr, dplyr, ggplot2, shiny, rvest.
+
+Tahtmise korral leiab palju andmeteaduse-teemalisi ja seotud inglisekeelseid kursuseid erinevatest MOOC-ide keskkondadest (Coursera, edX, Udacity jt) ja ülikoolide endi kodulehtedelt.
 
 ## Eestis tegutsevad ettevõtted
 
+Siin on ettevõtted, mis mingil viisil kasutavad oma tegevuses andmeteadust (ja potentsiaalselt palkavad inimesi, kes sellega tegelevad).
+
+* [**Adcash**](http://www.adcash.com/) – kuuldavasti analüüsitakse seal reklaamiandmeid.
+* [**andmeteadus.ee**](http://andmeteadus.ee/) on (vist Eesti esimene ja siiani ainuke) puhtalt andmeteaduse konsultatsioonile suunatud ettevõte.
+* [**Bondora**](https://www.bondora.ee/) on otsinud inimesi oma laienevasse andmeteaduse tiimi (allikas: meil TÜ kinnisesse meililisti).
+* **Eesti Energia** Energiamüügi alaüksuses analüüsitakse “klientide liikumist, klientide profiilide segmenteerimist ja tulevikutehingute hinnastamist” (allikas: praktikapakkumine tudengitele).
+* [**Funderbeam**](https://funderbeam.com/) analüüsib idufirmasid ja tegeleb samuti andmeteadusega.
+* **Nortal** [otsib](http://www.nortal.com/careers/recent-openings/52) andmeteadlast oma Omaani kontorisse.
+* **Skype**'is tehakse andmeteadust erinevates tiimides -- näiteks kõne kvaliteedi parandamiseks, aga ka maksete ja pettuse vältimise osas.
+* [**Teleport.org**](https://teleport.org/) kasutab maakera erinevaid andmekihte, et aidata inimestel optimeerida oma elukohta.
+* **TransferWise**'is otsitakse aeg-ajalt andmeteadlase profiilile vastavaid inimesi Growth Analysti nime all kliendibaasi analüüsima ja kasvatama.
+* [**Xpressomics**](https://xpressomics.com/about/) ja [Quretec](http://www.quretec.com/) teevad rohkem teadusega (bioinformaatika ja terviseandmed) seotud andmekaevet.
 
 
 ## Panustajad
