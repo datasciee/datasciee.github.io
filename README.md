@@ -28,6 +28,8 @@ Siin on ettevõtted, mis mingil viisil kasutavad oma tegevuses andmeteadust (ja 
 * [**Adcash**](http://www.adcash.com/) – kuuldavasti analüüsitakse seal reklaamiandmeid.
 * [**andmeteadus.ee**](http://andmeteadus.ee/) on (vist Eesti esimene ja ainuke) puhtalt andmeteaduse konsultatsioonile suunatud ettevõte.
 * [**Bondora**](https://www.bondora.ee/) on otsinud inimesi oma laienevasse andmeteaduse tiimi (allikas: meil TÜ kinnisesse meililisti).
+* [**Centar**](http://centar.ee/) kasutab majandusanalüüside tegemisel ka kvantitatiivseid meetodeid.
+* [**Datafruit**](http://datafruit.ee/) tegelevad andmete laadimise, analüüsi ja raporteerimise alase konsultatsiooniga.
 * **Eesti Energia** Energiamüügi alaüksuses analüüsitakse “klientide liikumist, klientide profiilide segmenteerimist ja tulevikutehingute hinnastamist” (allikas: praktikapakkumine tudengitele).
 * [**Funderbeam**](https://funderbeam.com/) analüüsib idufirmasid ja tegeleb andmeteadusega.
 * **Nortal** [otsib](http://www.nortal.com/careers/recent-openings/52) andmeteadlast oma Omaani kontorisse.
