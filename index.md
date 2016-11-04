@@ -1,16 +1,16 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
 
-
 # Eesti andmeteadus
 
-Siin on info blogide, materjalide ja ettevõtete kohta, mis on kuidagi seotud Eesti ja andmeteadusega. Kui tahad midagi lisada, loo uus [*issue*](https://github.com/taivop/eesti-andmeteadus/issues/new) või tee *pull request* (ja lisa oma nimi panustajate alla).
+Siin on info blogide, materjalide ja ettevõtete kohta, mis on kuidagi seotud Eesti ja andmeteadusega. Kõik nimekirjad on tähestikulises järjekorras.
 
-Kõik nimekirjad on tähestikulises järjekorras.
+Kui tahad midagi lisada või paranduse teha, vaata [siia](https://github.com/datasciee/datasciee.github.io).
+
+## Kommuunid
+* [**Data Science Estonia**](https://facebook.com/groups/datasci.ee) Facebooki grupp -- siin jagatakse (tüüpiliselt vähem kui kord nädalas) Eesti andmeteadusega seonduvaid üritusi, uudiseid, tööpakkumisi ja nõu.
+* [**Machine Learning Estonia**](http://www.meetup.com/Machine-Learning-Estonia) meetup.com grupp -- ligikaudu kord kahe kuu tagant toimub kokkusaamine, kus suheldakse ja kuulatakse ettekandeid erinevatel masinõppega seonduvatel teemadel (vt varasemate kohtumiste sisu [siit](http://www.meetup.com/Machine-Learning-Estonia/events/past)).
 
 ## Blogid
 
@@ -23,7 +23,7 @@ Kõik nimekirjad on tähestikulises järjekorras.
 
 ## Eestikeelsed kursused ja materjalid
 
-Praegu eesti keeles eriti materjale ei ole. Ainuke on kursus Statistiline andmeteadus ja visualiseerimine ([2015](http://andmeteadus.github.io/2015), [2016](http://andmeteadus.github.io/2016)), mille korraldamisega alustasid Tartu Ülikoolis Kaspar Märtens ja Tanel Pärnamaa ning jätkasid Mark Gimbutas ja Siim Viigand. Kõik õppematerjalid (v.a. mõned konfidentsiaalsed andmehulgad) on avalikud (vt [GitHubist](https://github.com/andmeteadus)).
+Praegu eesti keeles eriti palju materjale ei ole. Ainuke on kursus Statistiline andmeteadus ja visualiseerimine ([2015](http://andmeteadus.github.io/2015), [2016](http://andmeteadus.github.io/2016)), mille korraldamisega alustasid Tartu Ülikoolis Kaspar Märtens ja Tanel Pärnamaa ning jätkasid Mark Gimbutas ja Siim Viigand. Kõik õppematerjalid (v.a. mõned konfidentsiaalsed andmehulgad) on avalikud (vt [GitHubist](https://github.com/andmeteadus)).
 
 Kursus on põnev selle poolest, et aines toimuvadki ainult praktikumid (mille täpsed juhised on aine kodulehel kättesaadavad!) ja loengute asemel on viited erinevatele huvitavatele videotele ja artiklitele. Käsitletakse andmete kraapimist, puhastamist, analüüsi, visualiseerimist jm. Peamised märksõnad: R, knitr, dplyr, ggplot2, shiny, rvest.
 
