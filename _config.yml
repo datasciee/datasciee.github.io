@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Eesti andmeteadus
 description: > # this means to ignore newlines until "baseurl:"
-  Eesti andmeteaduse ressursid: blogid, õppematerjalid, ettevõtted.
+  Eesti andmeteaduse ressursid: kommuunid, blogid, õppematerjalid, ettevõtted.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://datasci.ee" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  datasciee
