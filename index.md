@@ -27,7 +27,7 @@ Praegu eesti keeles eriti palju materjale ei ole. Ainuke on kursus Statistiline 
 
 Kursus on põnev selle poolest, et aines toimuvadki ainult praktikumid (mille täpsed juhised on aine kodulehel kättesaadavad!) ja loengute asemel on viited erinevatele huvitavatele videotele ja artiklitele. Käsitletakse andmete kraapimist, puhastamist, analüüsi, visualiseerimist jm. Peamised märksõnad: R, knitr, dplyr, ggplot2, shiny, rvest.
 
-Tahtmise korral leiab palju andmeteaduse-teemalisi ja seotud inglisekeelseid kursuseid erinevatest MOOC-ide keskkondadest (Coursera, edX, Udacity jt) ja ülikoolide endi kodulehtedelt.
+Tahtmise korral leiab palju andmeteaduse-teemalisi ja seotud inglisekeelseid kursuseid erinevatest MOOC-ide keskkondadest (Coursera, edX, Udacity jt) ja ülikoolide endi kodulehtedelt -- näiteks [siin](https://medium.freecodecamp.com/if-you-want-to-learn-data-science-start-with-one-of-these-programming-classes-fb694ffe780c#.d6qzt392a) on (inglisekeelne) nimekiri, kuidas alustada.
 
 ## Eestis tegutsevad ettevõtted
 
