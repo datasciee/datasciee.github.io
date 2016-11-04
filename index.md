@@ -9,7 +9,7 @@ Siin on info blogide, materjalide ja ettevõtete kohta, mis on kuidagi seotud Ee
 Kui tahad midagi lisada või paranduse teha, vaata [siia](https://github.com/datasciee/datasciee.github.io).
 
 ## Kommuunid
-* [**Data Science Estonia**](https://facebook.com/groups/datasci.ee) Facebooki grupp -- siin jagatakse (tüüpiliselt vähem kui kord nädalas) Eesti andmeteadusega seonduvaid üritusi, uudiseid, tööpakkumisi ja nõu.
+* [**Data Science Estonia**](https://facebook.com/groups/datasci.ee) Facebooki grupp -- siin jagatakse (inglise keeles ja tüüpiliselt vähem kui kord nädalas) Eesti andmeteadusega seonduvaid üritusi, uudiseid, tööpakkumisi ja nõu.
 * [**Machine Learning Estonia**](http://www.meetup.com/Machine-Learning-Estonia) meetup.com grupp -- ligikaudu kord kahe kuu tagant toimub kokkusaamine, kus suheldakse ja kuulatakse ettekandeid erinevatel masinõppega seonduvatel teemadel (vt varasemate kohtumiste sisu [siit](http://www.meetup.com/Machine-Learning-Estonia/events/past)).
 
 ## Blogid
@@ -40,11 +40,11 @@ Siin on ettevõtted, mis mingil viisil kasutavad oma tegevuses andmeteadust (ja 
 * [**Datafruit**](http://datafruit.ee/) tegelevad andmete laadimise, analüüsi ja raporteerimise alase konsultatsiooniga.
 * **Eesti Energia** Energiamüügi alaüksuses analüüsitakse “klientide liikumist, klientide profiilide segmenteerimist ja tulevikutehingute hinnastamist” (allikas: praktikapakkumine tudengitele).
 * [**Funderbeam**](https://funderbeam.com/) analüüsib idufirmasid ja tegeleb andmeteadusega.
-* **Nortal** [otsib](http://www.nortal.com/careers/recent-openings/52) andmeteadlast oma Omaani kontorisse.
+* **Nortal** on otsinud andmeteadlast oma Omaani kontorisse.
 * **Skype**'is tehakse andmeteadust erinevates tiimides -- näiteks kõne kvaliteedi parandamiseks, aga ka pettuse vältimise ja maksete osas.
 * [**Teleport.org**](https://teleport.org/) kasutab maakera erinevaid andmekihte, et aidata inimestel optimeerida oma elukohta.
 * **TransferWise**'is otsitakse aeg-ajalt andmeteadlase profiilile vastavaid inimesi Growth Analysti nime all kliendibaasi analüüsima ja kasvatama.
-* [**Xpressomics**](https://xpressomics.com/about/) ja [**Quretec**](http://www.quretec.com/) teevad rohkem teadusega (bioinformaatika ja terviseandmed) seotud andmekaevet.
+* [**Xpressomics**](https://xpressomics.com/about/) ja [**Quretec**](http://www.quretec.com/) teevad rohkem teadusega (bioinformaatika ja terviseandmetega) seotud andmekaevet.
 
 
 ## Panustajad
