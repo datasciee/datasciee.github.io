@@ -38,14 +38,20 @@ Siin on ettevõtted, mis mingil viisil kasutavad oma tegevuses andmeteadust (ja 
 * [**Bondora**](https://www.bondora.ee/) on otsinud inimesi oma laienevasse andmeteaduse tiimi (allikas: meil TÜ kinnisesse meililisti).
 * [**Centar**](http://centar.ee/) kasutab majandusanalüüside tegemisel ka kvantitatiivseid meetodeid.
 * [**Datafruit**](http://datafruit.ee/) tegelevad andmete laadimise, analüüsi ja raporteerimise alase konsultatsiooniga.
-* **Eesti Energia** Energiamüügi alaüksuses analüüsitakse “klientide liikumist, klientide profiilide segmenteerimist ja tulevikutehingute hinnastamist” (allikas: praktikapakkumine tudengitele).
+* [**Eesti Energia**](https://www.energia.ee/et/avaleht) Energiamüügi alaüksuses analüüsitakse “klientide liikumist, klientide profiilide segmenteerimist ja tulevikutehingute hinnastamist” (allikas: praktikapakkumine tudengitele).
 * [**Funderbeam**](https://funderbeam.com/) analüüsib idufirmasid ja tegeleb andmeteadusega.
-* **Nortal** on otsinud andmeteadlast oma Omaani kontorisse.
-* **Skype**'is tehakse andmeteadust erinevates tiimides -- näiteks kõne kvaliteedi parandamiseks, aga ka pettuse vältimise ja maksete osas.
+* [**Inforegister**](https://www.inforegister.ee/) on otsinud oma tiimi andmeteadurit (2016).
+* [**Neste**](http://www.neste.ee/ee) on otsinud oma tiimi andmeteadlast (2016).
+* [**Nortal**](https://nortal.com/) on otsinud andmeteadlast oma Omaani kontorisse (2015).
+* [**Planet OS**](https://planetos.com/company/) tegeleb geoandmete infrastruktuuri ja analüüsiga.
+* [**Skype**](https://www.skype.com/en/)'is tehakse andmeteadust erinevates tiimides -- näiteks kõne kvaliteedi parandamiseks, aga ka pettuse vältimise ja maksete osas.
+* [**Starship**](https://www.starship.xyz/) kasutab masinõpet, et isesõitvaid pakiroboteid kontrollida.
 * [**Teleport.org**](https://teleport.org/) kasutab maakera erinevaid andmekihte, et aidata inimestel optimeerida oma elukohta.
-* **TransferWise**'is otsitakse aeg-ajalt andmeteadlase profiilile vastavaid inimesi Growth Analysti nime all kliendibaasi analüüsima ja kasvatama.
+* [**Telia**](https://www.telia.ee/ettevottest/uldinfo) on otsinud oma tiimi "analüütik-andmekaevurit" (2016).
+* [**TransferWise**](https://transferwise.com/)'is otsitakse aeg-ajalt andmeteadlase profiilile vastavaid inimesi Growth Analysti nime all kliendibaasi analüüsima ja kasvatama.
 * [**Xpressomics**](https://xpressomics.com/about/) ja [**Quretec**](http://www.quretec.com/) teevad rohkem teadusega (bioinformaatika ja terviseandmetega) seotud andmekaevet.
 
 
 ## Panustajad
 * [Taivo Pungas](https://github.com/taivop)
+* [Priit Tamme](https://github.com/tammelv)
