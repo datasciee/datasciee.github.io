@@ -58,3 +58,4 @@ Siin on ettevõtted, mis mingil viisil kasutavad oma tegevuses andmeteadust (ja 
 * [Taivo Pungas](https://github.com/taivop)
 * [Priit Tamme](https://github.com/tammelv)
 * [Rauno Viskus](https://github.com/Rauno56)
+* [Tauno Metsalu](https://github.com/taunometsalu)
