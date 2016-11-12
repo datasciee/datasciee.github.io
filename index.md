@@ -41,11 +41,14 @@ Siin on ettevõtted, mis mingil viisil kasutavad oma tegevuses andmeteadust (ja 
 * [**Eesti Energia**](https://www.energia.ee/et/avaleht) Energiamüügi alaüksuses analüüsitakse “klientide liikumist, klientide profiilide segmenteerimist ja tulevikutehingute hinnastamist” (allikas: praktikapakkumine tudengitele).
 * [**Funderbeam**](https://funderbeam.com/) analüüsib idufirmasid ja tegeleb andmeteadusega.
 * [**Inforegister**](https://www.inforegister.ee/) on otsinud oma tiimi andmeteadurit (2016).
+* [**Jobbatical**](https://www.jobbatical.com/) kausutab oma andmeid erinevates peamiselt soovitustega(kasutaja-tööpakkumine ja vastupidi) seotud probleemides.
+* [**Kaya Consulting**](http://kaya-consulting.com/) rakendab andmekaevet ja masinõpet ärianalüütikas.
 * [**Neste**](http://www.neste.ee/ee) on otsinud oma tiimi andmeteadlast (2016).
 * [**Nortal**](https://nortal.com/) on otsinud andmeteadlast oma Omaani kontorisse (2015).
 * [**Planet OS**](https://planetos.com/company/) tegeleb geoandmete infrastruktuuri ja analüüsiga.
 * [**Skype**](https://www.skype.com/en/)'is tehakse andmeteadust erinevates tiimides -- näiteks kõne kvaliteedi parandamiseks, aga ka pettuse vältimise ja maksete osas.
 * [**Starship**](https://www.starship.xyz/) kasutab masinõpet, et isesõitvaid pakiroboteid kontrollida.
+* [**Swedbank**](https://www.swedbank.ee/about/work)i Customer Value Management ärisuuna all on 6 inimesega andmeanalüüsi osakond ([vanemanalüütiku tööpakkumine](http://www.cv.ee/job-ad/swedbank-as/senior-analyst-f3194338.html) 2016).
 * [**Teleport.org**](https://teleport.org/) kasutab maakera erinevaid andmekihte, et aidata inimestel optimeerida oma elukohta.
 * [**Telia**](https://www.telia.ee/ettevottest/uldinfo) on otsinud oma tiimi "analüütik-andmekaevurit" (2016).
 * [**TransferWise**](https://transferwise.com/)'is otsitakse aeg-ajalt andmeteadlase profiilile vastavaid inimesi Growth Analysti nime all kliendibaasi analüüsima ja kasvatama.
@@ -55,3 +58,5 @@ Siin on ettevõtted, mis mingil viisil kasutavad oma tegevuses andmeteadust (ja 
 ## Panustajad
 * [Taivo Pungas](https://github.com/taivop)
 * [Priit Tamme](https://github.com/tammelv)
+* [Rauno Viskus](https://github.com/Rauno56)
+* [Tauno Metsalu](https://github.com/taunometsalu)
