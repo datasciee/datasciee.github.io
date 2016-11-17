@@ -42,6 +42,7 @@ Siin on ettevõtted, mis mingil viisil kasutavad oma tegevuses andmeteadust (ja 
 * [**Bondora**](https://www.bondora.ee/) on otsinud inimesi oma laienevasse andmeteaduse tiimi (allikas: meil TÜ kinnisesse meililisti).
 * [**Centar**](http://centar.ee/) kasutab majandusanalüüside tegemisel ka kvantitatiivseid meetodeid.
 * [**Datafruit**](http://datafruit.ee/) tegelevad andmete laadimise, analüüsi ja raporteerimise alase konsultatsiooniga.
+* [**DataMe**](https://www.datame.eu/) koondab eraisikute maksekäitumist ja laene puudutavaid andmeid ning tegeleb nende andmete töötlemisega.
 * [**Eesti Energia**](https://www.energia.ee/et/avaleht) Energiamüügi alaüksuses analüüsitakse “klientide liikumist, klientide profiilide segmenteerimist ja tulevikutehingute hinnastamist” (allikas: praktikapakkumine tudengitele).
 * [**Funderbeam**](https://funderbeam.com/) analüüsib idufirmasid ja tegeleb andmeteadusega.
 * [**Inforegister**](https://www.inforegister.ee/) on otsinud oma tiimi andmeteadurit (2016).
@@ -66,3 +67,4 @@ Siin on ettevõtted, mis mingil viisil kasutavad oma tegevuses andmeteadust (ja 
 * [Rauno Viskus](https://github.com/Rauno56)
 * [Tauno Metsalu](https://github.com/taunometsalu)
 * [Jaak Vilo](https://github.com/jaakvilo)
+* [Marko Vaik](https://github.com/vaikmarko)
