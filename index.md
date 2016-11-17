@@ -21,11 +21,15 @@ Kui tahad midagi lisada või paranduse teha, vaata [siia](https://github.com/dat
 * [**Statistikablogi**](https://statistikaamet.wordpress.com/) -- siin kirjutab Statistikaamet erinevatest Eesti rahvastikku, majandust jpt aspekte puudutavatest andmetest. Tegu on natuke klassikalisema kirjeldava statistikaga, aga kommentaarid ja analüüs on asjalikud.
 * [**Welcome to data science**](http://welcome-to-data-science.blogspot.it/) -- tegu on küll inglisekeelse blogiga, aga autorid (Lauri Koobas ja Valdar Tammik) on eestlased. Teemad osalt tehnilised (andmeanalüüs R-is), aga ka kommentaarid veebikursuste, huvitavete artiklite/videote, tööpakkumiste jm kohta. 2015. aastal on seni ilmunud 4 postitust.
 
-## Eestikeelsed kursused ja materjalid
+## Kursused ja materjalid
 
+### Eesti keeles
 Praegu eesti keeles eriti palju materjale ei ole. Ainuke on kursus Statistiline andmeteadus ja visualiseerimine ([2015](http://andmeteadus.github.io/2015), [2016](http://andmeteadus.github.io/2016)), mille korraldamisega alustasid Tartu Ülikoolis Kaspar Märtens ja Tanel Pärnamaa ning jätkasid Mark Gimbutas ja Siim Viigand. Kõik õppematerjalid (v.a. mõned konfidentsiaalsed andmehulgad) on avalikud (vt [GitHubist](https://github.com/andmeteadus)).
 
 Kursus on põnev selle poolest, et aines toimuvadki ainult praktikumid (mille täpsed juhised on aine kodulehel kättesaadavad!) ja loengute asemel on viited erinevatele huvitavatele videotele ja artiklitele. Käsitletakse andmete kraapimist, puhastamist, analüüsi, visualiseerimist jm. Peamised märksõnad: R, knitr, dplyr, ggplot2, shiny, rvest.
+
+### Inglise keeles
+Tartu ülikooli [arvutiteaduse instituudi](http://www.cs.ut.ee/et) inglisekeelses [informaatika magistriõppekavas](https://www.is.ut.ee/pls/ois/!tere.tulemast?leht=OK.BL.PU&id_a_oppekava=4776) võimalik spetsialiseeruda andmekaevele. Enamiku kursuste materjalid on [avalikult kättesaadavad](https://courses.cs.ut.ee/); muuhulgas õpetatakse kursusi [Data Mining](https://courses.cs.ut.ee/2016/dm2016/spring), [Machine Learning](https://courses.cs.ut.ee/2016/ml/spring) ja on õpetatud erikursusi [Reinforcement Learning](https://courses.cs.ut.ee/2016/scml-seminar/spring) ja [Unsupervised Learning](https://courses.cs.ut.ee/2016/scml-seminar/fall).
 
 Tahtmise korral leiab palju andmeteaduse-teemalisi ja seotud inglisekeelseid kursuseid erinevatest MOOC-ide keskkondadest (Coursera, edX, Udacity jt) ja ülikoolide endi kodulehtedelt -- näiteks [siin](https://medium.freecodecamp.com/if-you-want-to-learn-data-science-start-with-one-of-these-programming-classes-fb694ffe780c#.d6qzt392a) on (inglisekeelne) nimekiri, kuidas alustada.
 
@@ -47,6 +51,7 @@ Siin on ettevõtted, mis mingil viisil kasutavad oma tegevuses andmeteadust (ja 
 * [**Nortal**](https://nortal.com/) on otsinud andmeteadlast oma Omaani kontorisse (2015).
 * [**Planet OS**](https://planetos.com/company/) tegeleb geoandmete infrastruktuuri ja analüüsiga.
 * [**Skype**](https://www.skype.com/en/)'is tehakse andmeteadust erinevates tiimides -- näiteks kõne kvaliteedi parandamiseks, aga ka pettuse vältimise ja maksete osas.
+* [**STACC**](http://www.stacc.ee/et) lahendab ettevõtete andmeanalüüsi ülesandeid, näiteks personaalmeditsiini, tekstikaeve ja äriprotsesside optimeerimise alal.
 * [**Starship**](https://www.starship.xyz/) kasutab masinõpet, et isesõitvaid pakiroboteid kontrollida.
 * [**Swedbank**](https://www.swedbank.ee/about/work)i Customer Value Management ärisuuna all on 6 inimesega andmeanalüüsi osakond ([vanemanalüütiku tööpakkumine](http://www.cv.ee/job-ad/swedbank-as/senior-analyst-f3194338.html) 2016).
 * [**Teleport.org**](https://teleport.org/) kasutab maakera erinevaid andmekihte, et aidata inimestel optimeerida oma elukohta.
@@ -60,3 +65,4 @@ Siin on ettevõtted, mis mingil viisil kasutavad oma tegevuses andmeteadust (ja 
 * [Priit Tamme](https://github.com/tammelv)
 * [Rauno Viskus](https://github.com/Rauno56)
 * [Tauno Metsalu](https://github.com/taunometsalu)
+* [Jaak Vilo](https://github.com/jaakvilo)
