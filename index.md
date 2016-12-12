@@ -54,7 +54,7 @@ Siin on ettevõtted, mis mingil viisil kasutavad oma tegevuses andmeteadust (ja 
 * [**Skype**](https://www.skype.com/en/)'is tehakse andmeteadust erinevates tiimides -- näiteks kõne kvaliteedi parandamiseks, aga ka pettuse vältimise ja maksete osas.
 * [**STACC**](http://www.stacc.ee/et) lahendab ettevõtete andmeanalüüsi ülesandeid, näiteks personaalmeditsiini, tekstikaeve ja äriprotsesside optimeerimise alal.
 * [**Starship**](https://www.starship.xyz/) kasutab masinõpet, et isesõitvaid pakiroboteid kontrollida.
-* [**Swedbank**](https://www.swedbank.ee/about/work)i Customer Value Management ärisuuna all on 6 inimesega andmeanalüüsi osakond ([vanemanalüütiku tööpakkumine](http://www.cv.ee/job-ad/swedbank-as/senior-analyst-f3194338.html) 2016).
+* [**Swedbank**](https://www.swedbank.ee/about/work)i Customer Value Management ärisuuna all on 6 inimesega andmeanalüüsi osakond.
 * [**Teleport.org**](https://teleport.org/) kasutab maakera erinevaid andmekihte, et aidata inimestel optimeerida oma elukohta.
 * [**Telia**](https://www.telia.ee/ettevottest/uldinfo) on otsinud oma tiimi "analüütik-andmekaevurit" (2016).
 * [**TransferWise**](https://transferwise.com/)'is otsitakse aeg-ajalt andmeteadlase profiilile vastavaid inimesi Growth Analysti nime all kliendibaasi analüüsima ja kasvatama.
