@@ -7,7 +7,7 @@ permalink: /masinoppe-sonastik/
 Allpool on teemade kaupa toodud eestikeelsed vasted erinevatele masinõppe terminitele. Tegu on tööversiooniga; panustamiseks vaata [siia](https://github.com/datasciee/datasciee.github.io).
 
 
-**Konsensus** näitab 9 eksperdi pakutust enimlevinud vastet. Ekspertidena andsid arvamuse [Tambet Matiisen](https://github.com/tambetm), Kairit Sirts, Mare Koit, [Tanel Pärnamaa](http://github.com/tanelp), Toomas Kirt, Sven Laur, [Jüri Lember](http://www-1.ms.ut.ee/ained/Tehis%f5pe/tehisope8.pdf) ja [Konstantin Tretjakov](https://github.com/konstantint). Mõnele terminile ei pakkunud eksperdid ühtki vastet; sel juhul on vaste Tambet Matiiseni pakutud.
+**Konsensus** näitab 9 eksperdi pakutust enimlevinud vastet. Ekspertidena andsid arvamuse [Tambet Matiisen](https://github.com/tambetm), Kairit Sirts, Mare Koit, [Tanel Pärnamaa](http://github.com/tanelp), Toomas Kirt, Sven Laur, Jüri Lember ([loengukonspektist](http://www-1.ms.ut.ee/ained/Tehis%f5pe/tehisope8.pdf)) ja [Konstantin Tretjakov](https://github.com/konstantint). Mõnele terminile ei pakkunud eksperdid ühtki vastet; sel juhul on vaste Tambet Matiiseni pakutud.
 
 **IT sõnastik** näitab [EKI IT terministandardi sõnastiku](http://www.eki.ee/dict/its/) vasteid.
 
