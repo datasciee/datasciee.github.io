@@ -4,14 +4,27 @@ title: Masinõppe terminid
 permalink: /terminid/
 ---
 
-siin lehel on masinõppe terminid
+Allpool on teemade kaupa toodud eestikeelsed vasted erinevatele masinõppe terminitele. Tegu on tööversiooniga; panustamiseks vaata [siia](https://github.com/datasciee/datasciee.github.io).
 
 
+**Konsensus** näitab 9 eksperdi pakutust enimlevinud vastet. Ekspertidena andsid arvamuse [Tambet Matiisen](https://github.com/tambetm), Kairit Sirts, Mare Koit, [Tanel Pärnamaa](http://github.com/tanelp), Toomas Kirt, Sven Laur, Jüri Lember, Leo Võhandu ja [Konstantin Tretjakov](https://github.com/konstantint). Mõnele terminile ei pakkunud eksperdid ühtki vastet; sel juhul on vaste Tambet Matiiseni pakutud.
+
+**IT sõnastik** näitab [EKI IT terministandardi sõnastiku](http://www.eki.ee/dict/its/) vasteid.
+
+Põhiosa terminite kogumise tööst tegi ära [Tambet Matiisen](https://github.com/tambetm). Lisaks temale ja ülalnimetatud ekspertidele panustas kommentaaridega [Kristjan Korjus](https://github.com/kristjankorjus/).
+
+### Sisukord
+{:.no_toc}
+
+* Siia tuleb sisukord (ja see lause kustutatakse ära).
+{:toc}
 
 
+### General / Üldine
+
+{: .term-table .table .table-striped .sortable}
 | Inglise keeles                                   | Konsensus                                          | IT sõnastik                              |
 |--------------------------------------------------|----------------------------------------------------|------------------------------------------|
-| General / Üldine                                 |                                                    |                                          |
 | machine learning                                 | masinõpe                                           | tehisõpe, automaatõpe                    |
 | statistical learning                             | tehisõpe?                                          |                                          |
 | supervised learning                              | juhendatud õpe, juhendamisega õpe                  | valvega õppimine                         |
@@ -27,7 +40,13 @@ siin lehel on masinõppe terminid
 | training                                         | treenimine                                         |                                          |
 | testing                                          | testimine                                          |                                          |
 | validation                                       | valideerimine                                      |                                          |
-| Networks / Võrgud                                |                                                    |                                          |
+
+
+### Networks / Võrgud
+
+{: .term-table .table .table-striped .sortable}
+| Inglise keeles                                   | Konsensus                                          | IT sõnastik                              |
+|--------------------------------------------------|----------------------------------------------------|------------------------------------------|
 | perceptron                                       | pertseptron, tajur                                 | ühekihiline pertseptron, lihtpertseptron |
 | multi-layer perceptron                           | mitmekihiline närvivõrk, mitmekihiline pertseptron | mitmekihiline pertseptron                |
 | feed-forward network                             | pärilevivõrk                                       | tsükliteta võrk, pärilevivõrk            |
@@ -41,7 +60,12 @@ siin lehel on masinõppe terminid
 | liquid state machine                             | voolav olekuvõrk?                                  |                                          |
 | echo state network                               | kajaolekuvõrk?                                     |                                          |
 | ensemble (of models)                             | (mudelite) ansambel, (mudelite) komitee            |                                          |
-| Network components / Võrgu osad                  |                                                    |                                          |
+
+### Network components / Võrgu osad
+
+{: .term-table .table .table-striped .sortable}
+| Inglise keeles                                   | Konsensus                                          | IT sõnastik                              |
+|--------------------------------------------------|----------------------------------------------------|------------------------------------------|
 | neuron                                           | neuron                                             | neuron                                   |
 | node                                             | (võrgu)sõlm                                        | sõlm                                     |
 | input node                                       | sisendsõlm                                         |                                          |
@@ -55,7 +79,12 @@ siin lehel on masinõppe terminid
 | representation                                   | esitus                                             | esitus                                   |
 | distributed representation                       | hajusesitus                                        |                                          |
 | (representation) sparsity                        | (esituse) hõredus                                  |                                          |
-| Layers / Kihid                                   |                                                    |                                          |
+
+### Layers / Kihid
+
+{: .term-table .table .table-striped .sortable}
+| Inglise keeles                                   | Konsensus                                          | IT sõnastik                              |
+|--------------------------------------------------|----------------------------------------------------|------------------------------------------|
 | input layer                                      | sisendkiht                                         |                                          |
 | output layer                                     | väljundkiht                                        |                                          |
 | hidden layer                                     | peitkiht, peidetud kiht, varjatud kiht             | nähtamatu kiht, vahekiht                 |
@@ -63,27 +92,47 @@ siin lehel on masinõppe terminid
 | pooling / subsampling layer                      | ahenduskiht                                        | subsampling = diskreetimine              |
 | fully connected layer                            | täissidus kiht, täielikult ühendatud kiht          | sidus, täissidus                         |
 | softmax layer                                    | softmax-kiht                                       |                                          |
-| Layer parameters / Kihtide parameetrid           |                                                    |                                          |
+
+### Layer parameters / Kihtide parameetrid
+
+{: .term-table .table .table-striped .sortable}
+| Inglise keeles                                   | Konsensus                                          | IT sõnastik                              |
+|--------------------------------------------------|----------------------------------------------------|------------------------------------------|
 | padding                                          | ääris                                              |                                          |
 | channels                                         | kanalid                                            |                                          |
 | filter, number of filters                        | filter, filtrite arv                               | filter                                   |
 | (kernel / convolution) size                      | (konvolutsiooni) suurus                            | ahendustuum                              |
 | stride                                           | (konvolutsiooni) samm                              |                                          |
 | feature map                                      | tunnuskaart, tunnuste kaart                        |                                          |
-| Activation functions / Aktivatsioonifunktsioonid |                                                    |                                          |
+
+### Activation functions / Aktivatsioonifunktsioonid
+
+{: .term-table .table .table-striped .sortable}
+| Inglise keeles                                   | Konsensus                                          | IT sõnastik                              |
+|--------------------------------------------------|----------------------------------------------------|------------------------------------------|
 | activation function                              | aktivatsioonifunktsioon                            | aktivatsioonifunktsioon                  |
 | threshold function                               | lävefunktsioon                                     |                                          |
 | sigmoid function                                 | sigmoidfunktsioon                                  |                                          |
 | tanh function                                    | hüperboolne tangensfunktsioon, tanh-funktsioon     |                                          |
 | rectified linear unit/function                   | mittenegatiivne lineaarfunktsioon                  |                                          |
-| Objective functions / Eesmärkfunktsioonid        |                                                    |                                          |
+
+### Objective functions / Eesmärkfunktsioonid
+
+{: .term-table .table .table-striped .sortable}
+| Inglise keeles                                   | Konsensus                                          | IT sõnastik                              |
+|--------------------------------------------------|----------------------------------------------------|------------------------------------------|
 | objective function                               | eesmärkfunktsioon                                  |                                          |
 | cost (function)                                  | kulu(funktsioon)                                   |                                          |
 | loss (function)                                  | kahju(funktsioon), kao(funktsioon)                 | kahju                                    |
 | hinge loss                                       | kärbitud lineaarne kaofunktsioon                   |                                          |
 | cross-entropy loss                               | ristentroopiakahju                                 |                                          |
 | Euclidean loss / squared loss                    | Eukleidiline kahju, ruutkahju                      |                                          |
-| Optimization / Optimiseerimine                   |                                                    |                                          |
+
+### Optimization / Optimeerimine
+
+{: .term-table .table .table-striped .sortable}
+| Inglise keeles                                   | Konsensus                                          | IT sõnastik                              |
+|--------------------------------------------------|----------------------------------------------------|------------------------------------------|
 | feed-forward (propagation)                       | pärilevi                                           | pärilevi                                 |
 | back-propagation                                 | tagasilevi                                         | tagasilevi                               |
 | batch (training)                                 | plokk, plokktreening                               | pakk, saritreening                       |
@@ -110,7 +159,12 @@ siin lehel on masinõppe terminid
 | overfitting                                      | ülesobitus, ülesobitamine                          |                                          |
 | underfitting                                     | alasobitus, alasobitamine                          |                                          |
 | boosting                                         | võimendamine                                       |                                          |
-| Datasets / Andmestikud                           |                                                    |                                          |
+
+### Datasets / Andmestikud
+
+{: .term-table .table .table-striped .sortable}
+| Inglise keeles                                   | Konsensus                                          | IT sõnastik                              |
+|--------------------------------------------------|----------------------------------------------------|------------------------------------------|
 | dataset                                          | andmestik                                          |                                          |
 | training set                                     | treeningandmestik                                  |                                          |
 | validation set                                   | valideerimisandmestik                              |                                          |
@@ -120,14 +174,25 @@ siin lehel on masinõppe terminid
 | label                                            | märgend, märgendama                                |                                          |
 | data augmentation                                |                                                    |                                          |
 | bag of words                                     |                                                    |                                          |
-| Classification / Klassifitseerimine              |                                                    |                                          |
+{:.termtable}
+
+### Classification / Klassifitseerimine
+
+{: .term-table .table .table-striped .sortable}
+| Inglise keeles                                   | Konsensus                                          | IT sõnastik                              |
+|--------------------------------------------------|----------------------------------------------------|------------------------------------------|
 | classification                                   | klassifitseerimine                                 |                                          |
 | classifier                                       | klassifitseerija                                   |                                          |
 | classification error                             | klassifitseerimisviga                              |                                          |
 | precision                                        | täpsus                                             | täpsus                                   |
 | recall                                           |                                                    |                                          |
 | accuracy                                         |                                                    | täpsus, õigsus                           |
-| Machine learning / Masinõpe                      |                                                    |                                          |
+
+### Machine learning / Masinõpe
+
+{: .term-table .table .table-striped .sortable}
+| Inglise keeles                                   | Konsensus                                          | IT sõnastik                              |
+|--------------------------------------------------|----------------------------------------------------|------------------------------------------|
 | random forest                                    | otsustusmets                                       |                                          |
 | support vector machine                           | tugivektorklassifitseerija                         |                                          |
 | logistic regression                              | logistiline regressioon                            |                                          |

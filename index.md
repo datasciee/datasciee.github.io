@@ -68,3 +68,4 @@ Siin on ettevõtted, mis mingil viisil kasutavad oma tegevuses andmeteadust (ja 
 * [Tauno Metsalu](https://github.com/taunometsalu)
 * [Jaak Vilo](https://github.com/jaakvilo)
 * [Marko Vaik](https://github.com/vaikmarko)
+* [Tambet Matiisen](https://github.com/tambetm)
