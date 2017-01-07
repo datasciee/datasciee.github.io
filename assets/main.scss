@@ -35,11 +35,18 @@ $on-laptop:        800px;
 //     }
 // }
 
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
 body {
 	background-image: url("../images/page_header.svg");
 	padding-top: 100px !important;
 	background-size: auto 100px;
 	background-repeat: repeat-x;
 }
+
 // Import partials from the `minima` theme.
 @import "minima";
