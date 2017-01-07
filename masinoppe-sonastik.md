@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Masinõppe terminid
-permalink: /terminid/
+title: Masinõppe sõnastik
+permalink: /masinoppe-sonastik/
 ---
 
 Allpool on teemade kaupa toodud eestikeelsed vasted erinevatele masinõppe terminitele. Tegu on tööversiooniga; panustamiseks vaata [siia](https://github.com/datasciee/datasciee.github.io).
