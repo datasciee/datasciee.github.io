@@ -1,8 +1,7 @@
 ---
-layout: home
+layout: page
+title: Eesti andmeteadus
 ---
-
-# Eesti andmeteadus
 
 Siin on info blogide, materjalide ja ettevõtete kohta, mis on kuidagi seotud Eesti ja andmeteadusega. Kõik nimekirjad on tähestikulises järjekorras.
 
