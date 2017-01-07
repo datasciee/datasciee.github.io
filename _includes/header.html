@@ -2,7 +2,7 @@
 
   <div class="wrapper">
 
-    <a class="site-title" href="{{ "/" | relative_url}}">{{ site.title | escape }}</a>
+    <!--<a class="site-title" href="{{ "/" | relative_url}}">{{ site.title | escape }}</a>-->
 
     <nav class="site-nav">
       <span class="menu-icon">
@@ -14,6 +14,7 @@
       </span>
 
       <div class="trigger">
+        <a class="page-link" href="{{ "/" | relative_url }}">Avaleht</a>
         {% for my_page in site.pages %}
           {% if my_page.title %}
           <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
