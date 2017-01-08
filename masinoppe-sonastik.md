@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Närvivõrkude ja masinõppe sõnastik
+description: Inglise-eesti vasted levinud masinõppe ja närvivõrkude terminitele.
 permalink: /masinoppe-sonastik/
 ---
 
