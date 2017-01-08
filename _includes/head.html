@@ -8,7 +8,7 @@
 
   <meta property="og:title" content="{{ site.title | escape }}" />
   <meta property="og:description" content="{{ site.description | escape }}" />
-  <meta property="og:url" content="http://datasci.ee" />
+  <meta property="og:url" content="{{ page.url | replace:'index.html','' | absolute_url }}" />
   <meta property="og:image" content="http://datasci.ee/images/cover.png" />
 
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
