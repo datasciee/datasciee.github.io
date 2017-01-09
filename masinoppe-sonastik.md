@@ -12,7 +12,7 @@ Allpool on teemade kaupa toodud eestikeelsed vasted erinevatele masinõppe termi
 
 **IT sõnastik** näitab [EKI IT terministandardi sõnastiku](http://www.eki.ee/dict/its/) vasteid.
 
-Põhiosa terminite kogumise tööst tegi ära [Tambet Matiisen](https://github.com/tambetm). Lisaks temale ja ülalnimetatud ekspertidele panustas kommentaaridega [Kristjan Korjus](https://github.com/kristjankorjus/).
+Põhiosa terminite kogumise tööst tegi ära [Tambet Matiisen](https://github.com/tambetm). Lisaks temale ja ülalnimetatud ekspertidele panustasid kommentaaridega [Kristjan Korjus](https://github.com/kristjankorjus/) ja [Ardi Tampuu](https://github.com/RDTm).
 
 ### Sisukord
 {:.no_toc}
