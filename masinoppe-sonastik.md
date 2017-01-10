@@ -27,7 +27,7 @@ Põhiosa terminite kogumise tööst tegi ära [Tambet Matiisen](https://github.c
 | Inglise keeles                                   | Konsensus                                          | IT sõnastik                              |
 |--------------------------------------------------|----------------------------------------------------|------------------------------------------|
 | machine learning                                 | masinõpe                                           | tehisõpe, automaatõpe                    |
-| statistical learning                             | tehisõpe?                                          |                                          |
+| statistical learning                             | statistiline õpe, tehisõpe                         |                                          |
 | supervised learning                              | juhendatud õpe, juhendamisega õpe                  | valvega õppimine                         |
 | unsupervised learning                            | juhendamata õpe, juhendamiseta õpe                 | valveta õppimine                         |
 | reinforcement learning                           | stiimulõpe, kinnitusega õpe                        | kinnitusega õppimine                     |
@@ -35,7 +35,7 @@ Põhiosa terminite kogumise tööst tegi ära [Tambet Matiisen](https://github.c
 | artificial neural network                        | tehisnärvivõrk                                     | tehis-närvivõrk                          |
 | deep neural network                              | sügav närvivõrk                                    |                                          |
 | deep learning                                    | sügavad närvivõrgud, sügavõpe                      |                                          |
-| transfer learning                                | siirdeõpe                                          |                                          |
+| transfer learning                                | siirdeõpe, ülekandeõpe                             |                                          |
 | representation learning                          | esituse õpe                                        |                                          |
 | ensemble learning                                | ansambelõpe, komiteeõpe                            |                                          |
 | training                                         | treenimine                                         |                                          |
