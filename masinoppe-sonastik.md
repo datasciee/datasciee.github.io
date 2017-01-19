@@ -170,11 +170,11 @@ Põhiosa terminite kogumise tööst tegi ära [Tambet Matiisen](https://github.c
 | training set                                     | treeningandmestik                                  |                                          |
 | validation set                                   | valideerimisandmestik                              |                                          |
 | test set                                         | testandmestik                                      |                                          |
-| dimensions                                       | dimensioonid                                       | mõõted?                                  |
+| dimensions                                       | dimensioonid, mõõtmed                              | mõõted?                                  |
 | class                                            | klass                                              |                                          |
 | label                                            | märgend, märgendama                                |                                          |
-| data augmentation                                |                                                    |                                          |
-| bag of words                                     |                                                    |                                          |
+| data augmentation                                | andmete rikastamine                                |                                          |
+| bag of words                                     | sõnahulk                                           |                                          |
 {:.termtable}
 
 ### Classification / Klassifitseerimine
@@ -186,8 +186,8 @@ Põhiosa terminite kogumise tööst tegi ära [Tambet Matiisen](https://github.c
 | classifier                                       | klassifitseerija                                   |                                          |
 | classification error                             | klassifitseerimisviga                              |                                          |
 | precision                                        | täpsus                                             | täpsus                                   |
-| recall                                           |                                                    |                                          |
-| accuracy                                         |                                                    | täpsus, õigsus                           |
+| recall                                           | saagis                                             |                                          |
+| accuracy                                         | õigsus                                             | täpsus, õigsus                           |
 
 ### Machine learning / Masinõpe
 
