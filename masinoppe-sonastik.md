@@ -14,6 +14,8 @@ Allpool on teemade kaupa toodud eestikeelsed vasted erinevatele masinõppe termi
 
 Põhiosa terminite kogumise tööst tegi ära [Tambet Matiisen](https://github.com/tambetm). Lisaks temale ja ülalnimetatud ekspertidele panustasid kommentaaridega [Kristjan Korjus](https://github.com/kristjankorjus/) ja [Ardi Tampuu](https://github.com/RDTm).
 
+Vaata ka EKI [andmeanalüüsi ja statistika oskussõnastikku](http://term.eki.ee/termbase/view/8917007/).
+
 ### Sisukord
 {:.no_toc}
 
