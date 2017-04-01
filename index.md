@@ -9,7 +9,8 @@ Kui tahad midagi lisada või paranduse teha, vaata [siia](https://github.com/dat
 
 ## Kommuunid
 * [**Data Science Estonia**](https://facebook.com/groups/datasci.ee) Facebooki grupp -- siin jagatakse (inglise keeles ja tüüpiliselt vähem kui kord nädalas) Eesti andmeteadusega seonduvaid üritusi, uudiseid, tööpakkumisi ja nõu.
-* [**Machine Learning Estonia**](http://www.meetup.com/Machine-Learning-Estonia) meetup.com grupp -- ligikaudu kord kahe kuu tagant toimub kokkusaamine, kus suheldakse ja kuulatakse ettekandeid erinevatel masinõppega seonduvatel teemadel (vt varasemate kohtumiste sisu [siit](http://www.meetup.com/Machine-Learning-Estonia/events/past)).
+* [**Machine Learning Estonia**](http://www.meetup.com/Machine-Learning-Estonia) meetup.com grupp -- ligikaudu kord kahe kuu tagant toimub kokkusaamine, kus peetakse ettekandeid erinevatel masinõppega seonduvatel teemadel (vt varasemate kohtumiste sisu [siit](http://www.meetup.com/Machine-Learning-Estonia/events/past)).
+* [**Tallinn.ai**](http://tallinn.city.ai/) kommuun -- kord kvartalis toimub kokkusaamine, kus peetakse ettekandeid tehisintellekti ja masinõppe rakenduslikust poolest.
 
 ## Blogid
 
