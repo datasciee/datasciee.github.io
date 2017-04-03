@@ -33,6 +33,30 @@ Tartu ülikooli [arvutiteaduse instituudi](http://www.cs.ut.ee/et) inglisekeelse
 
 Tahtmise korral leiab palju andmeteaduse-teemalisi ja seotud inglisekeelseid kursuseid erinevatest MOOC-ide keskkondadest (Coursera, edX, Udacity jt) ja ülikoolide endi kodulehtedelt -- näiteks [siin](https://medium.freecodecamp.com/if-you-want-to-learn-data-science-start-with-one-of-these-programming-classes-fb694ffe780c#.d6qzt392a) on (inglisekeelne) nimekiri, kuidas alustada.
 
+## Andmestikud
+
+Järgnev nimekiri põhineb [Tartu tõepõhjahäkatoni](http://hack24.ut.ee/) korraldajate kogutud nimekirjal.
+
+* [Riigi avaandmete andmebaas](https://opendata.riik.ee/) (erinevad)
+* [Majandusministeeriumi avaandmed](http://opendata.mkm.ee/) (erinevad)
+* [Välisministeeriumi avaandmed](http://vm.ee/et/avaandmed) (erinevad)
+* [Justiitsministeeriumi avaandmed](http://www.rik.ee/et/avaandmed) (collection)
+* [Eesti ettevõtted](http://avaandmed.rik.ee/andmed/ARIREGISTER/) (csv, xml)
+* [Eesti seadused](http://www.riigiteataja.ee) (xml)
+* [Eesti haridusasutused](https://enda.ehis.ee/avalik/) (veeb)
+* [Eesti muuseumide andmed](http://opendata.muis.ee/) (API)
+* [Eesti aadressiandmed](http://xgis.maaamet.ee/adsavalik/ads?xBTN.newvalja) (csv)
+* [Valimistulemuste arhiiv](http://www.vvk.ee/arhiiv/) (veeb)
+* [Riigieelarve andmed](http://riigiraha.fin.ee) (xls, csv)
+* [Maksulaekumise statistika](http://www.emta.ee/et/kontaktid-ja-ametist/maksulaekumine-statistika/tasutud-maksud) (xls)
+* [Ametnike palgaandmed](http://www.avalikteenistus.ee/index.php?id=41596) (xlsx)
+* [Teadus- ja haridusandmed](http://www.haridussilm.ee/)
+* [RMK huvipunktid (matkarajad, lõkkekohad, metsamajad, looduskeskused jne)](https://github.com/tambeta/rmkmapper) (API)
+* [Kinnisvarahinnad](https://pungas.ee/andmestikud/kv-ee-kinnisvarakuulutused/) (csv)
+* [Tallinna linnavalitsuse avaandmed](http://avaandmed.tallinn.ee/) (erinevad)
+* [Tallinna koolide aadressid](https://info.haridus.ee/Asutused) (veeb)
+
+
 ## Eestis tegutsevad ettevõtted
 
 Siin on ettevõtted, mis mingil viisil kasutavad oma tegevuses andmeteadust (ja potentsiaalselt palkavad inimesi, kes sellega tegelevad).
