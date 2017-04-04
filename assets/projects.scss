@@ -29,6 +29,16 @@ $project-difficulty-stars-color: yellow;
 	}
 }
 
+.project-content {
+	text-align: justify;
+}
+
+.project-content {
+	a, a:visited {
+		color: $datasci-color-red;
+	}
+}
+
 h1.project-difficulty {
 	margin-left: 1em;
 	color: $project-difficulty-stars-color;
