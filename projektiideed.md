@@ -27,7 +27,8 @@ TODO give guidelines for publishing these projects
 {% for project in items %}
 <div class="project">
 	<h1 class="project-title">{{ project.title }}</h1>
-	<!-- TODO add stars -->
+
+	<!-- Project difficulty -->
 	<p class="project-difficulty">
 		{% for i in (1..3) %}
 			{% if i <= project.difficulty %}
@@ -37,7 +38,13 @@ TODO give guidelines for publishing these projects
 			{% endif %}
 		{% endfor %}
 	</p>
-	<!-- TODO add tags -->
+
+	<!-- Project tags -->
+	<ul class="project-tags">
+		{% for tag in project.tags %}
+		<li> {{ tag }} </li>
+		{% endfor %}
+	</ul>
 	<div class="project-content">
 	  {{ project.content }}
 	</div>
