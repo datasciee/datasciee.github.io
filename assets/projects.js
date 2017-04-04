@@ -10,6 +10,21 @@ function cleanTagString(s) {
     return s.trim().split(" ")[0];
 }
 
+function setActiveFilterStyles() {
+    // TODO make all active filters a different color
+    var allTagElems = Array.prototype.slice.call(document.getElementsByClassName("tag"));
+
+    for(var j=0; j<allTagElems.length; j++) {
+        var elem = allTagElems[j];
+        console.log(cleanTagString(elem.textContent));
+        if(currentFilters.indexOf(cleanTagString(elem.textContent)) >= 0) {
+            elem.classList.add("active");
+        } else {
+            elem.classList.remove("active");
+        }
+    }
+}
+
 function filterProjectsOnClick(event) {
     var clickedTag = cleanTagString(event.target.textContent);
     console.log("Clicked!" + clickedTag);
@@ -36,6 +51,8 @@ function filterProjectsOnClick(event) {
             project.style.display = "none";
         }
     }
+
+    setActiveFilterStyles();
 }
 
 function makeTagList() {

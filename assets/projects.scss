@@ -42,3 +42,7 @@ ul.project-tags li {
 	border-radius: 0.2em;
 	background-color: $project-tag-background-color;
 }
+
+.tag.active {
+	background-color: $datasci-color-red;
+}
