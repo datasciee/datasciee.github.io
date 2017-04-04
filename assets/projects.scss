@@ -1,8 +1,45 @@
 ---
 ---
 
+$datasci-color-red: #983353;
+$datasci-color-green: #629841;
+$datasci-color-yellow: #90A43B;
+$datasci-color-purple: #6E266E;
+
+$project-background-color: lighten($datasci-color-yellow, 40%);
+$project-tag-background-color: lighten($datasci-color-red, 30%);
+$project-difficulty-stars-color: yellow;
+
 .project {
 	padding: 0.5em 1em;
 	margin: 0.5em 0;
-	background-color: #dddddd;
+	background-color: $project-background-color;
+	border-radius: 0.5em;
+}
+
+.project-meta {
+	.project-title, .project-difficulty {
+		display: inline-block;
+	}
+}
+
+h1.project-difficulty {
+	margin-left: 1em;
+	color: $project-difficulty-stars-color;
+}
+
+ul.project-tags {
+	padding: 0;
+	margin-left: 0;
+	margin-right: 0;
+	font-size: 0.8em;
+	list-style-type: none;
+}
+
+ul.project-tags li {
+	display: inline;
+	padding: 0.1em 0.2em;
+	margin: 0 0.2em;
+	border-radius: 0.2em;
+	background-color: $project-tag-background-color;
 }

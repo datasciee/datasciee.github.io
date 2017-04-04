@@ -26,10 +26,10 @@ TODO give guidelines for publishing these projects
 {% assign items = site.projects | sort: 'difficulty' %}
 {% for project in items %}
 <div class="project">
+	<div class="project-meta">
 	<h1 class="project-title">{{ project.title }}</h1>
-
 	<!-- Project difficulty -->
-	<p class="project-difficulty">
+	<h1 class="project-difficulty">
 		{% for i in (1..3) %}
 			{% if i <= project.difficulty %}
 				<span>★</span>
@@ -37,14 +37,15 @@ TODO give guidelines for publishing these projects
 				<span>☆</span>
 			{% endif %}
 		{% endfor %}
-	</p>
-
+	</h1>
 	<!-- Project tags -->
 	<ul class="project-tags">
 		{% for tag in project.tags %}
 		<li> {{ tag }} </li>
 		{% endfor %}
 	</ul>
+	</div>
+
 	<div class="project-content">
 	  {{ project.content }}
 	</div>
