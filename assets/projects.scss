@@ -7,7 +7,8 @@ $datasci-color-yellow: #90A43B;
 $datasci-color-purple: #6E266E;
 
 $project-background-color: lighten($datasci-color-yellow, 40%);
-$project-tag-background-color: darken($project-background-color, 20%);
+$project-tag-background-color: lighten($datasci-color-yellow, 20%);
+$project-tag-background-color-active: lighten($datasci-color-red, 20%);
 $project-difficulty-stars-color: yellow;
 
 #project-label-filters {
@@ -43,12 +44,12 @@ ul.project-tags {
 
 ul.project-tags li {
 	display: inline;
-	padding: 0.1em 0.2em;
+	padding: 0.2em 0.3em;
 	margin: 0 0.2em;
 	border-radius: 0.2em;
 	background-color: $project-tag-background-color;
 }
 
 .tag.active {
-	background-color: $datasci-color-red;
+	background-color: $project-tag-background-color-active;
 }

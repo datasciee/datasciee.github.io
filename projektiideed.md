@@ -1,27 +1,28 @@
 ---
 layout: page
 title: Projektiideed
-description: TODO
+description: Ideed väikesteks projektideks andmeteaduses
 permalink: /projektiideed
 stylesheet: /assets/projects.css
 custom_script: /assets/projects.js
 ---
 
-TODO sissejuhatus: miks teha
+Praktilise ja selge eesmärgiga projekti tegemine on lihtne viis õppida.
+Algajatele annab väikeste projektide tegemine võimaluse harjutada otsast lõpuni ohjade enda kätte võtmist -- andmete kogumisest ja puhastamisest visualiseerimise ja analüüsini.
+Ekspertidele on miniprojektid hea võimalus riskivabalt uusi tehnoloogiaid katsetada.
 
-Reasoning:
-* if just starting, just get some experience
-* if expert, broaden your experience
-* you wanna get hands-on experience with a variety of tasks, variety of datasets, variety of tools
+Põnevaid andmeallikaid Eesti kohta leiab [siitsamast lehelt](/index.html#andmestikud), ülejäänud maailma kohta [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) Githubi repost.
 
-TODO link to data sources
+Tulemusi on põnev näha ka teistel -- andmeteadusehuvilistel, tulevastel tööandjatel või hoopis ajakirjanduse kaudu laiemal publikul. Näiteks võib avaldamiseks kasutada:
 
-TODO give guidelines for publishing these projects
-* some sort of Rmd / knitr file => Github
-* iPython notebooks (easy to publish somewhere)
-* make PR so we can put them on this page
-* maybe share on the Facebook group if you're especially proud
+* blogipostitusi ükskõik millises keskkonnas
+* Jupyter *notebook*e (näiteks [Jupyter nbviewer](https://nbviewer.jupyter.org/)i kaudu)
+* Markdown-faile Githubis
+* *R markdown*i [abil](https://github.com/rstudio/blogdown) Githubis
 
+Võimalusi on loomulikult veel.
+
+Kui avaldad midagi allpool pakutud projektide kohta, siis loo [*issue*](https://github.com/datasciee/datasciee.github.io/issues), et lisada link sinu tulemusele. Kui oled eriti rahul, jaga seda ka meie [Facebooki grupis](https://facebook.com/groups/datasci.ee)! 
 
 <div id="project-label-filters">
     <p>Filtreeri:</p>
