@@ -23,6 +23,11 @@ TODO give guidelines for publishing these projects
 * maybe share on the Facebook group if you're especially proud
 
 
+<div id="project-label-filters">
+    <p>Filtreeri:</p>
+    <ul class="project-tags"></ul>
+</div>
+
 {% assign items = site.projects | sort: 'difficulty' %}
 {% for project in items %}
 <div class="project">
@@ -41,7 +46,7 @@ TODO give guidelines for publishing these projects
 	<!-- Project tags -->
 	<ul class="project-tags">
 		{% for tag in project.tags %}
-		<li> {{ tag }} </li>
+		<li class="project-tag tag"> {{ tag }} </li>
 		{% endfor %}
 	</ul>
 	</div>

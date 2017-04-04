@@ -7,14 +7,13 @@ $datasci-color-yellow: #90A43B;
 $datasci-color-purple: #6E266E;
 
 $project-background-color: lighten($datasci-color-yellow, 40%);
-$project-tag-background-color: lighten($datasci-color-red, 30%);
+$project-tag-background-color: darken($project-background-color, 20%);
 $project-difficulty-stars-color: yellow;
 
 .project {
 	padding: 0.5em 1em;
 	margin: 0.5em 0;
 	background-color: $project-background-color;
-	border-radius: 0.5em;
 }
 
 .project-meta {
