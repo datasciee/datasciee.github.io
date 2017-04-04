@@ -23,13 +23,24 @@ TODO give guidelines for publishing these projects
 * maybe share on the Facebook group if you're especially proud
 
 
-<div class="projects">
-	<div id="calculate-num-apples-in-estonia" data-difficulty="3" data-tags="apples,testing">
-		<h1>Õunte arv</h1>
-		<p>Leia, kui palju õunu Eestis on. Põhjenda oma arvutuskäiku.</p>
-	</div>
-
-	<div id="calculate-num-oranges-in-estonia" data-difficulty="1" data-tags="oranges,testing">
-		<p>Leia, kui palju apelsine Eestis on. Põhjenda oma arvutuskäiku.</p>
+{% assign items = site.projects | sort: 'difficulty' %}
+{% for project in items %}
+<div class="project">
+	<h1 class="project-title">{{ project.title }}</h1>
+	<!-- TODO add stars -->
+	<p class="project-difficulty">
+		{% for i in (1..3) %}
+			{% if i <= project.difficulty %}
+				<span>★</span>
+			{% else %}
+				<span>☆</span>
+			{% endif %}
+		{% endfor %}
+	</p>
+	<!-- TODO add tags -->
+	<div class="project-content">
+	  {{ project.content }}
 	</div>
 </div>
+
+{% endfor %}

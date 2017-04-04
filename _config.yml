@@ -29,3 +29,6 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+collections:
+- projects
