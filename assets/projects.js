@@ -11,7 +11,6 @@ function cleanTagString(s) {
 }
 
 function setActiveFilterStyles() {
-    // TODO make all active filters a different color
     var allTagElems = Array.prototype.slice.call(document.getElementsByClassName("tag"));
 
     for(var j=0; j<allTagElems.length; j++) {

@@ -10,6 +10,12 @@ $project-background-color: lighten($datasci-color-yellow, 40%);
 $project-tag-background-color: darken($project-background-color, 20%);
 $project-difficulty-stars-color: yellow;
 
+#project-label-filters {
+	p, ul {
+		display: inline-block;
+	}
+}
+
 .project {
 	padding: 0.5em 1em;
 	margin: 0.5em 0;
