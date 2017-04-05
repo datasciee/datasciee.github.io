@@ -46,7 +46,8 @@ Kui avaldad midagi allpool pakutud projektide kohta -- kasvõi lood esialgse and
 	</h1>
 	<!-- Project tags -->
 	<ul class="project-tags">
-		{% for tag in project.tags %}
+	    {% assign tags = project.tags | sort %}
+		{% for tag in tags %}
 		<li class="project-tag tag"> {{ tag }} </li>
 		{% endfor %}
 	</ul>
