@@ -62,11 +62,19 @@ function makeTagList() {
     var counts = {};
     tag_labels.map( function (a) { if (a in counts) counts[a] ++; else counts[a] = 1; } );
 
+    // Turn counts to array and sort
+    var tagsSorted = Object.keys(counts);
+    tagsSorted.sort(function(a, b) {
+        return counts[b] - counts[a];
+    });
+
 
     // Create HTML elements
     var filtersUl = document.getElementById("project-label-filters").getElementsByTagName("ul")[0];
 
-    for(var tag in counts) {
+
+    for(var i=0; i<tagsSorted.length; i++) {
+        var tag = tagsSorted[i];
         console.log(tag + ": " + counts[tag]);
         var textNode = document.createTextNode(tag + " " + counts[tag]);
         var liNode = document.createElement("li");
