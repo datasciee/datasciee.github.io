@@ -37,6 +37,10 @@ $project-difficulty-stars-color: yellow;
 	a, a:visited {
 		color: $datasci-color-red;
 	}
+
+	ul ul {
+		font-size: 0.8em;
+	}
 }
 
 h1.project-difficulty {
