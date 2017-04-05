@@ -18,7 +18,7 @@ Tulemusi on põnev näha ka teistel -- andmeteadusehuvilistel, tulevastel tööa
 * blogipostitusi ükskõik millises keskkonnas
 * Jupyter *notebook*e (näiteks [Jupyter nbviewer](https://nbviewer.jupyter.org/)i kaudu)
 * Markdown-faile Githubis
-* *R markdown*i [abil](https://github.com/rstudio/blogdown) Githubis
+* R *markdown*i (Rmd) [abil](https://github.com/rstudio/blogdown) Githubis
 
 Võimalusi on loomulikult veel.
 
