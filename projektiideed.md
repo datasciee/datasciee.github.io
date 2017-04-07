@@ -22,7 +22,9 @@ Tulemusi on põnev näha ka teistel -- andmeteadusehuvilistel, tulevastel tööa
 
 Võimalusi on loomulikult veel.
 
-Kui avaldad midagi allpool pakutud projektide kohta -- kasvõi lood esialgse andmestiku mingile küsimusele vastamiseks --, siis loo [*issue*](https://github.com/datasciee/datasciee.github.io/issues), et lisada link sinu tulemusele. Kui oled eriti rahul, jaga seda ka meie [Facebooki grupis](https://facebook.com/groups/datasci.ee)! 
+Kui avaldad midagi allpool pakutud projektide kohta -- kasvõi lood esialgse andmestiku mingile küsimusele vastamiseks --, siis loo [*issue*](https://github.com/datasciee/datasciee.github.io/issues), et lisada link sinu tulemusele ja jaga seda ka [Facebooki grupis](https://facebook.com/groups/datasci.ee)! Kui sul on endal põnev projektiidee, mida tahad jagada, siis [ava *issue* või *pull request*](https://github.com/datasciee/datasciee.github.io).
+
+Tärnide arv projekti juures näitab selle ligikaudset keerukust (aga paljude puhul saab valida lihtsa või keerulise lähenemise, seega ära võta tärne sulatõena).
 
 <div id="project-label-filters">
     <p>Filtreeri:</p>
