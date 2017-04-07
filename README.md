@@ -1,6 +1,6 @@
 # Eesti andmeteadus
 
-[datasci.ee](http://datasci.ee) veebilehe lähtekood. Leht on ehitatud [Jekyll](https://jekyllrb.com)i abil; sisu on kirjutatud Markdownis ja asub failis [index.md](https://github.com/datasciee/datasciee.github.io/blob/master/index.md).
+[datasci.ee](http://datasci.ee) veebilehe lähtekood. Leht on ehitatud [Jekyll](https://jekyllrb.com)i abil; sisu on kirjutatud Markdownis ja asub failis [index.md](https://github.com/datasciee/datasciee.github.io/blob/master/index.md). Repot haldab [@taivop](https://github.com/taivop).
 
 ## Panustamine
 * **Sisu** muutmiseks loo uus [*issue*](https://github.com/datasciee/datasciee.github.io/issues/new) või muuda faili [index.md](https://github.com/datasciee/datasciee.github.io/blob/master/index.md) (kasvõi otse GitHubis).
