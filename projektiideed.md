@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projektiideed
-description: Ideed väikesteks projektideks andmeteaduses
+description: Ideed väikesteks projektideks andmeteaduses.
 permalink: /projektiideed
 stylesheet: /assets/projects.css
 custom_script: /assets/projects.js
