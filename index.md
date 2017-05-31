@@ -7,6 +7,12 @@ Siin on info blogide, materjalide ja ettevõtete kohta, mis on kuidagi seotud Ee
 
 Kui tahad midagi lisada või paranduse teha, vaata [siia](https://github.com/datasciee/datasciee.github.io).
 
+## Mis on andmeteadus?
+
+*Andmeteadus hõlmab kõiki tegevusi, mis aitavad andmete põhjal kasulikke otsuseid teha.*
+
+See võib tähendada väga mittetehnilisi asju nagu kirjalikke analüüse või lihtsat kirjeldavat statistikat, veidi tehnilisemat tööd nagu andmete ettevalmistamist või visualiseerimist, või matemaatiliselt keerulisemaid asju nagu aegridade ennustamist või ülesannete (näiteks pettusetuvastuse) ära automatiseerimist.
+
 ## Kommuunid
 * [**Data Science Estonia**](https://facebook.com/groups/datasci.ee) Facebooki grupp -- siin jagatakse (inglise keeles ja tüüpiliselt vähem kui kord nädalas) Eesti andmeteadusega seonduvaid üritusi, uudiseid, tööpakkumisi ja nõu.
 * [**Machine Learning Estonia**](http://www.meetup.com/Machine-Learning-Estonia) meetup.com grupp -- ligikaudu kord kahe kuu tagant toimub kokkusaamine, kus peetakse ettekandeid erinevatel masinõppega seonduvatel teemadel (vt varasemate kohtumiste sisu [siit](http://www.meetup.com/Machine-Learning-Estonia/events/past)).
