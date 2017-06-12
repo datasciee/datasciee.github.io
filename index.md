@@ -62,6 +62,13 @@ Järgnev nimekiri põhineb [Tartu tõepõhjahäkatoni](http://hack24.ut.ee/) kor
 * [Tallinna linnavalitsuse avaandmed](http://avaandmed.tallinn.ee/) (erinevad)
 * [Tallinna koolide aadressid](https://info.haridus.ee/Asutused) (veeb)
 
+## Eestis tegutsevad asutused
+
+Siin on asutused, mis ei taotle tulu ja tegelevad mingil viisil andmeteadusega.
+
+* [**ATI**](https://www.cs.ut.ee/et) ehk Tartu ülikooli arvutiteaduse instituut sisaldab muuhulgas [arvutusliku neuroteaduse](http://neuro.cs.ut.ee/), [bioinformaatika](http://biit.cs.ut.ee/) ja [keeletehnoloogia](http://nlp.cs.ut.ee/) gruppe, mis kasutavad palju andmeteaduse meetodeid.
+* [**CITIS**](http://citis.ut.ee/) on Tartu ülikooli juures tegutsev asutus, mis keskendub avalike e-teenuste parandamisele andmete abil.
+
 
 ## Eestis tegutsevad ettevõtted
 
