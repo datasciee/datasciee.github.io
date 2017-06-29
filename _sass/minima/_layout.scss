@@ -189,7 +189,9 @@
   @include relative-font-size(1.5);
 }
 
-
+.post-description {
+  @include relative-font-size(1.0);
+}
 
 /**
  * Posts
@@ -234,6 +236,28 @@
       @include relative-font-size(1.125);
     }
   }
+}
+
+.post-navigation-links {
+  display: block;
+  width: auto;
+  overflow: hidden;
+}
+
+.post-navigation-links a {
+  display: block;
+  width: 50%;
+  float: left;
+  margin: 1em 0;
+
+  &:hover {
+    color: red;
+  }
+}
+
+.post-navigation-links .next {
+  text-align: right;
+  float: right;
 }
 
 /* Table styling */
