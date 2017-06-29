@@ -3,7 +3,7 @@ layout: post
 title:  "Kaks tüüpi andmeteadlasi"
 description: "TODO lühikirjeldus"
 categories: sissejuhatus
-rank: 4
+rank: 3
 ---
 
 "on 2 tüüpi inimesi: need, kes jagavad inimesi kahte tüüpi inimesteks, ja need, kes ei jaga"

@@ -3,7 +3,7 @@ layout: post
 title:  "Andmeteadlase tööriistakast"
 description: "TODO lühikirjeldus"
 categories: sissejuhatus
-rank: 9
+rank: 8
 ---
 
 Mis on põhitööriistad, mida kasutatakse (vt see O’Reilly survey)

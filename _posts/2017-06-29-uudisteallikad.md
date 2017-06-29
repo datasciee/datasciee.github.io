@@ -3,7 +3,7 @@ layout: post
 title:  "Uudisteallikad, kommuunid ja üritused"
 description: "TODO lühikirjeldus"
 categories: sissejuhatus
-rank: 3
+rank: 2
 ---
 
 ## Uudisteallikad
