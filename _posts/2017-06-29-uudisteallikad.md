@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Uudisteallikad, kommuunid ja üritused"
-description: "TODO lühikirjeldus"
+description: "Parimad viisid, et leida uusi tuttavaid ning infot Eestis toimuva kohta."
 categories: sissejuhatus
 rank: 2
 ---
