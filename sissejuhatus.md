@@ -26,5 +26,5 @@ Allolev postituste sari on seni ainuke eestikeelne sissejuhatus andmeteaduse maa
 
 ------
 
-Autorid:
+Panustajad:
 * [Taivo Pungas](https://pungas.ee)
