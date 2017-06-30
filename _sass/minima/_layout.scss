@@ -164,6 +164,11 @@
  */
 .page-content {
   padding: $spacing-unit 0;
+
+  hr {
+    margin-top: $spacing-unit;
+    margin-bottom: $spacing-unit;
+  }
 }
 
 .page-heading {
