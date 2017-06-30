@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mis on andmeteadus?"
-description: "TODO description"
+description: "Definitsioon, eesmärk ja hulk näiteid."
 categories: sissejuhatus
 rank: 0
 ---
