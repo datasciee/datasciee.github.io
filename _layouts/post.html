@@ -10,7 +10,7 @@ layout: default
 
 
   	<!-- TODO Finding prev and next post doesn't work because sorting is done as strings, not as integers-->
-  	{% assign posts_sorted = site.posts | sort:"rank" %}
+  	{% assign posts_sorted = site.sissejuhatus | sort:"rank" %}
 
   	{% for post in posts_sorted %}
 	  	{% if post.rank == page.rank %}

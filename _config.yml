@@ -31,4 +31,7 @@ exclude:
   - Gemfile.lock
 
 collections:
-- projects
+  sissejuhatus:
+    output: true
+    permalink: /:collection/:name
+  projects:

@@ -10,7 +10,7 @@ Allolev postituste sari on seni ainuke eestikeelne sissejuhatus andmeteaduse maa
 ------
 
 <ul class="post-list">
-{% assign posts = site.posts | sort:"rank" %}
+{% assign posts = site.sissejuhatus | sort:"rank" %}
 {% for post in posts %}
   <li>
     {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
