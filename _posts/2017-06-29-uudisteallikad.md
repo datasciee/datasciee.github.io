@@ -6,7 +6,25 @@ categories: sissejuhatus
 rank: 2
 ---
 
+## Kommuunid ja üritused
+
+* [**Data Science Estonia**](https://facebook.com/groups/datasci.ee) Facebooki grupis jagatakse (keskmiselt kord nädalas) Eesti andmeteadusega seonduvaid üritusi, uudiseid, tööpakkumisi ja igasugust muud nõu.
+* [**Machine Learning Estonia**](http://www.meetup.com/Machine-Learning-Estonia) on meetup.com grupp. Ligikaudu kord kahe kuu tagant toimub kokkusaamine, kus peetakse ettekandeid erinevatel masinõppega seonduvatel teemadel (vt varasemate kohtumiste sisu [siit](http://www.meetup.com/Machine-Learning-Estonia/events/past)). Varem on seal esinenud inimesed näiteks Skype'ist, TransferWise'ist, Starshipist, Adcashist, Pipedrive'ist ja ülikoolidest.
+* [**Tallinn.ai**](http://tallinn.city.ai/) kommuun -- kord kvartalis toimub kokkusaamine, kus peetakse ettekandeid tehisintellekti ja masinõppe rakenduslikust poolest.
+* Tartu ülikooli [Data Science Seminar](https://www.cs.ut.ee/et/uritused/data-science-seminar-deep-learning) katab erinevaid põnevaid teemasid andmeteaduses, seni näiteks sügavõpet, ärianalüüsi ja terviseandmeid.
+
+TODO välismaa kommuunid ja üritused?
+
+
+
+
 ## Uudisteallikad
+
+
+
+
+
+
 
 * datasci weekly
 * import AI
@@ -24,12 +42,3 @@ rank: 2
 * Kaggle
 * Twitter: Data Science Central
 * ?RSS feed kõige ülalolevaga
-
-
-## Kommuunid ja üritused
-
-* ML meetup, city.ai, TÜ data science seminar. konverents?
-* (vt datasci.ee)
-
-
-+ välismaa kommuunid ja üritused?
