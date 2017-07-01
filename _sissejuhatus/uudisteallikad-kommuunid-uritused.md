@@ -20,11 +20,9 @@ Välismaal toimuvatest konverentsidest lähim/suurim on sügisene [Nordic Data S
 
 ## Uudisteallikad
 
-Spetsiifiliselt Eestis toimuva kohta palju allikaid pole -- ülalmainitud Data Science Estonia grupp on ainuke (võid ka uurida [andmeteadust kajastavaid Eesti blogisid](http://datasci.ee/#blogid)).
+Spetsiifiliselt Eestis toimuva kohta palju allikaid pole -- ülalmainitud Data Science Estonia grupp on ainuke (võid ka uurida [andmeteadust kajastavaid Eesti blogisid](http://datasci.ee/#blogid)). 
 
-Välismaiseid allikaid on palju rohkem.
-
-Uudiskirjad:
+Välismaiseid allikaid on palju rohkem. Suurepärane ressurss on uudiskirjad, mis tulevad regulaarselt meilikasti:
 * [**Data Science Weekly**](https://www.datascienceweekly.org/) jagab igasuguseid viiteid andmeteaduse vallas toimuvast, eriti põnevatest projektidest, arvamusartiklitest ja muudest uudistest.
 * [**Import AI**](http://us13.campaign-archive1.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c) keskendub peamiselt masinõppele ja annab kommenteeritud ülevaate viimase nädala jooksul avaldatud artiklitest, poliitikamuutustest jm olulisest.
 * [**Information is Beautiful**](http://www.informationisbeautiful.net/) uudiskirjast saab inspiratsiooni põnevate visualisatsioonide jaoks.
