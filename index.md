@@ -30,7 +30,7 @@ See võib tähendada väga mittetehnilisi asju nagu kirjalikke analüüse või l
 ## Kursused ja materjalid
 
 ### Eesti keeles
-Praegu eesti keeles eriti palju materjale ei ole. Ainuke on kursus Statistiline andmeteadus ja visualiseerimine ([2015](http://andmeteadus.github.io/2015), [2016](http://andmeteadus.github.io/2016)), mille korraldamisega alustasid Tartu Ülikoolis Kaspar Märtens ja Tanel Pärnamaa ning jätkasid Mark Gimbutas ja Siim Viigand. Kõik õppematerjalid (v.a. mõned konfidentsiaalsed andmehulgad) on avalikud (vt [GitHubist](https://github.com/andmeteadus)).
+Praegu eesti keeles eriti palju materjale ei ole. Ainuke on kursus Statistiline andmeteadus ja visualiseerimine ([2015](http://andmeteadus.github.io/2015), [2016](http://andmeteadus.github.io/2016), [2017](http://andmeteadus.github.io/2016)), mille korraldamisega alustasid Tartu Ülikoolis Kaspar Märtens ja Tanel Pärnamaa ning jätkasid Mark Gimbutas ja Siim Viigand. Kõik õppematerjalid (v.a. mõned konfidentsiaalsed andmehulgad) on avalikud (vt [GitHubist](https://github.com/andmeteadus)).
 
 Kursus on põnev selle poolest, et aines toimuvadki ainult praktikumid (mille täpsed juhised on aine kodulehel kättesaadavad!) ja loengute asemel on viited erinevatele huvitavatele videotele ja artiklitele. Käsitletakse andmete kraapimist, puhastamist, analüüsi, visualiseerimist jm. Peamised märksõnad: R, knitr, dplyr, ggplot2, shiny, rvest.
 
@@ -87,6 +87,7 @@ Siin on ettevõtted, mis mingil viisil kasutavad oma tegevuses andmeteadust (ja 
 * [**Kaya Consulting**](http://kaya-consulting.com/) rakendab andmekaevet ja masinõpet ärianalüütikas.
 * [**Neste**](http://www.neste.ee/ee) on otsinud oma tiimi andmeteadlast (2016).
 * [**Nortal**](https://nortal.com/) on otsinud andmeteadlast oma Omaani kontorisse (2015).
+* [**Mooncascade**](https://mooncascade.com/)'is on kasvav andmeteaduse üksus, mis tegeleb andmeanalüüsi tellimuslahendustega.
 * [**Planet OS**](https://planetos.com/company/) tegeleb geoandmete infrastruktuuri ja analüüsiga.
 * [**Proekspert**](https://www.proekspert.ee/) tegeleb tarkade seadmete ning ärianalüüsiga.
 * [**Skype**](https://www.skype.com/en/)'is tehakse andmeteadust erinevates tiimides -- näiteks kõne kvaliteedi parandamiseks, aga ka pettuse vältimise ja maksete osas.
