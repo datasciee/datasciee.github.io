@@ -85,9 +85,9 @@ Siin on ettevõtted, mis mingil viisil kasutavad oma tegevuses andmeteadust (ja 
 * [**Inforegister**](https://www.inforegister.ee/) on otsinud oma tiimi andmeteadurit (2016).
 * [**Jobbatical**](https://www.jobbatical.com/) kausutab oma andmeid erinevates peamiselt soovitustega(kasutaja-tööpakkumine ja vastupidi) seotud probleemides.
 * [**Kaya Consulting**](http://kaya-consulting.com/) rakendab andmekaevet ja masinõpet ärianalüütikas.
+* [**Mooncascade**](https://mooncascade.com/)'is on kasvav andmeteaduse üksus, mis tegeleb andmeanalüüsi tellimuslahendustega.
 * [**Neste**](http://www.neste.ee/ee) on otsinud oma tiimi andmeteadlast (2016).
 * [**Nortal**](https://nortal.com/) on otsinud andmeteadlast oma Omaani kontorisse (2015).
-* [**Mooncascade**](https://mooncascade.com/)'is on kasvav andmeteaduse üksus, mis tegeleb andmeanalüüsi tellimuslahendustega.
 * [**Planet OS**](https://planetos.com/company/) tegeleb geoandmete infrastruktuuri ja analüüsiga.
 * [**Proekspert**](https://www.proekspert.ee/) tegeleb tarkade seadmete ning ärianalüüsiga.
 * [**Skype**](https://www.skype.com/en/)'is tehakse andmeteadust erinevates tiimides -- näiteks kõne kvaliteedi parandamiseks, aga ka pettuse vältimise ja maksete osas.
