@@ -33,3 +33,6 @@ exclude:
 
 collections:
 - projects
+
+minima:
+  date_format: "%d.%m.%Y"
