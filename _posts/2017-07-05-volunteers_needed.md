@@ -43,7 +43,7 @@ Some of the above can be easily done by someone with no experience but an intere
 
 Datasci.ee operates on top of [Jekyll](https://jekyllrb.com/) and a very basic [template](https://github.com/jekyll/minima) with some modifications -- see the public [GitHub repo](github.com/datasciee/datasciee.github.io).
 
-**Tasks**: review and rewrite the the website to make sure it works on all devices, looks consistently good, and is easy to navigate. This can be as simple as choosing a good Jekyll theme and customising it a bit. Most choices are up to you but we'd need to synchronise on the important stuff.
+**Tasks**: review and rewrite the the website to make sure it works on all devices, works consistently well, and is easy to share. This can be as simple as choosing a good Jekyll theme and customising it a bit. Most choices are up to you but we'd need to synchronise on the important stuff.
 
 **Effort**: 5-20 hours *total*.
 
