@@ -32,7 +32,10 @@ exclude:
   - Gemfile.lock
 
 collections:
-- projects
+  posts:
+    output: true
+    permalink: /post/:year/:month/:day/:title/
+  projects:
 
 minima:
   date_format: "%d.%m.%Y"
