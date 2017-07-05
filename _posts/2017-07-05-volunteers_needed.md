@@ -19,7 +19,9 @@ Concrete ways of doing the above include writing (blog posts, technical reports,
 
 It's useful to have a central place to share this content, which is why I propose doing this in the (newly started) datasci.ee blog. Content can be published elsewhere; this blog can also act as an aggregator.
 
-Given the above, I'm looking for multiple volunteers to fill the following roles (ideally multiple people per role). If you're interested, shoot me an email at [taivo@pungas.ee](mailto:taivo@pungas.ee)! If you have another project in mind that would develop data science in Estonia, do share that as well.
+Given the above, I'm looking for multiple volunteers to fill the following roles (ideally multiple people per role). **If you're interested, shoot me an email at [taivo@pungas.ee](mailto:taivo@pungas.ee)!**
+
+If you have another project in mind that would develop data science in Estonia, do share that as well.
 
 ### Contributor / blogger
 
