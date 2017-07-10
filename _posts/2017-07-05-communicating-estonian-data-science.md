@@ -2,10 +2,9 @@
 layout: post
 title:  "Communicating Estonian data science better"
 description: ""
-categories:
+categories: English
+author: taivop
 ---
-
-*By [Taivo Pungas](https://pungas.ee).*
 
 There's a lot of interest towards data science in Estonia today, and plenty of people making use of data science tools, but not much of this knowledge is publicly shared. Communicating better the work we're doing now would inspire more people to consider data science as an area worth going deeply into -- either as a career or to learn useful tools. In addition to drawing in people from the outside, it would be interesting and helpful to know what others within the community are working on.
 

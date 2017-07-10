@@ -39,3 +39,8 @@ collections:
 
 minima:
   date_format: "%d.%m.%Y"
+
+authors:
+  taivop:
+    name: Taivo Pungas
+    web: https://pungas.ee
