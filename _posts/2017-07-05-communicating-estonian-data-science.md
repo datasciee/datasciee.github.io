@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Communicating Estonian data science better"
-description: ""
+description: "An important bottleneck in data science in Estonia today is communication, and we can improve that by sharing our work and thoughts more."
 categories: English
 author: taivop
 ---
