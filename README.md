@@ -7,8 +7,8 @@
 
 1. Kirjuta see [markdownis]() valmis ja saada Taivole [meilile](mailto:taivo@pungas.ee).
 2. Tee *pull request*, kus:
-	a. Lisad `_posts` kausta uue faili kujul `YYYY-MM-DD-postituse-pealkiri.md`. Võta aluseks [see postitus](/_posts/2017-07-05-communicating-estonian-data-science.md).
-	b. Lisad end [`config.yml`](/_config.yml) lõppu autoriks (vaata näidet failis).
+	* Lisad `_posts` kausta uue faili kujul `YYYY-MM-DD-postituse-pealkiri.md`. Võta aluseks [see postitus](/_posts/2017-07-05-communicating-estonian-data-science.md).
+	* Lisad end [`config.yml`](/_config.yml) lõppu autoriks (vaata näidet failis).
 
 
 
