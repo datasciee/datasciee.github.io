@@ -5,7 +5,7 @@
 ## Panustamine
 **Blogipostituse** lisamiseks on kaks varianti.
 
-1. Kirjuta see [markdownis]() valmis ja saada Taivole [meilile](mailto:taivo@pungas.ee).
+1. Kirjuta see [markdownis](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) valmis ja saada Taivole [meilile](mailto:taivo@pungas.ee).
 2. Tee *pull request*, kus:
 	* Lisad `_posts` kausta uue faili kujul `YYYY-MM-DD-postituse-pealkiri.md`. Võta aluseks [see postitus](/_posts/2017-07-05-communicating-estonian-data-science.md).
 	* Lisad end [`config.yml`](/_config.yml) lõppu autoriks (vaata näidet failis).
