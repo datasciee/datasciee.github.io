@@ -7,7 +7,7 @@ title: Avaleht
 
 Data Science Estonia on Eesti andmeteaduse kommuun, mis ühendab praktiseerivaid andmeteadlasi, andmeteaduse meetodite kasutajaid, õppijaid ja muid huvilisi. Meie peamisteks suhtluskanaliteks on [Facebooki grupp](https://www.facebook.com/groups/datasci.ee/) ning [datasci.ee blogi](/blog).
 
-Datasci.ee eesmärk on koondada ühte kohta kõik Eesti andmeteadust puudutav info: selle leiad [ressursside lehelt](http://localhost:4000/ressursid/).
+Datasci.ee eesmärk on koondada ühte kohta kõik Eesti andmeteadust puudutav info: selle leiad [ressursside lehelt](/ressursid/).
 
 
 
