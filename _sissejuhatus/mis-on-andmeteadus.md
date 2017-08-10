@@ -36,8 +36,4 @@ Näited ülesannetest:
 * A: "leia, millised kliendid on ettevõttele kõige väärtuslikumad, ning kuidas nad meie toodet kasutavad"
 * B: "ehita süsteem, mis ennustab tunniajase täpsusega, kui palju kliente meil järgmise 7 päeva jooksul käib"
 
-B-tüüpi andmeteadlase tehniline taust peab olema üsna tugev, seega andmeteadusse sisenemiseks on lihtsam alustada A-tüübist -- A jaoks vajalikke tööriistu on lihtsam tehnilise hariduseta ära õppida. 
-
-## Mis järgmise n nädala jooksul juhtub?
-
-TODO 
+B-tüüpi andmeteadlase tehniline taust peab olema üsna tugev, seega andmeteadusse sisenemiseks on lihtsam alustada A-tüübist -- A jaoks vajalikke tööriistu on lihtsam tehnilise hariduseta ära õppida.

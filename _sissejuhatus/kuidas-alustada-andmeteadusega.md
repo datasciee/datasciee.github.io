@@ -6,13 +6,11 @@ categories: sissejuhatus
 rank: 1
 ---
 
-Kindlasti oled nüüdseks põnevil andmete ägedast maailmast ja tahad rohkem teada. Nagu igal pool mujal, on ka andmeteaduses kaks olulisemat õppimisviisi a) kursused ja b) ise harjutamine. Mida täpselt õppida?
-
-Matemaatilistest jt alusteadmistest räägime hiljem, aga käte külge panemiseks on vaja valida programmeerimiskeel.
+Kindlasti oled nüüdseks põnevil andmete ägedast maailmast ja tahad rohkem teada. Nagu muudel aladel, on ka andmeteaduses kaks olulisemat õppimisviisi a) kursused ja b) ise harjutamine. Mida täpselt õppida? Matemaatilised jt alusteadmised on olulised, aga kuna andmeteaduse eesmärk on praktilist kasu tuua, on praktiliste oskuste arendamine väga oluline. Alustame seega programmeerimiskeele valikust: kas Python või R?
 
 ## Python *vs* R
 
-A Python ja R on kaks andmeteaduses enimkasutatud keelt ja suurt osa ülesandeid saab lahendada mõlemas keeles, seega ei ole näiteks ainult R-i tundmine tohutult piirav.
+Python ja R on kaks andmeteaduses enimkasutatud keelt ja suurt osa ülesandeid saab lahendada mõlemas keeles, seega ei ole näiteks ainult R-i tundmine tohutult piirav.
 
 Hea mõte on keskenduda esialgu ainult ühele keelele ja saada selles heaks. Kuna esialgu pead ära õppima hunniku andmeteaduse kontseptsioone, on oluline kulutada aega enim sellele -- mitte kahe programmeerimiskeele iseärasuste tundmaõppimisele. Lisaks: kui oled heal tasemel ühes, on oluliselt lihtsam teine ära õppida.
 
@@ -23,21 +21,25 @@ Kumb siis valida? Järgnev on mõistlik rusikareegel:
 
 Siin on üks erand: kui oled veendunud, et tahad tegeleda *hardcore* masinõppega (eriti sügavate neurovõrkudega), vali Python. Suur osa uusimatest ja põnevaimatest masinõppe meetoditest avaldatakse praegu ainult Pythonis ja kuna ala liigub nii kiiresti, ei ole samad teegid alati teistes keeltes saada.
 
-TODO rohkem linke konkreetsetele tutorialidele.
+## Ressursid
 
-### Ressursid: Python
+Projekt [Open Data Science Master's](http://datasciencemasters.org/) teeb väga põhjaliku kokkuvõtte kursustest, mis katavad andmeteadlase alusoskused (nii Pythonis kui R-is). Nimekiri on väga pikk ja võib uustulnukana olla hirmutav, mistõttu annan allpool oma soovitused alustamiseks.
+
+### Python
+
+Eesti keeles ei ole Pythoni+andmeteaduse õppimiseks eriti materjale, aga inglise keeles alguse tegemiseks sobib näiteks [see Harvardi kursus](http://cs109.github.io/2015/). Masinõppega alustamiseks sobib klassikaline [Coursera Machine Learning kursus](https://www.coursera.org/learn/machine-learning) ja sügavõppe jaoks tuliuus [Coursera Deep Learning spetsialiseerumine](https://www.coursera.org/specializations/deep-learning).
 
 Kõige olulisemad teegid:
 * [numpy](http://www.numpy.org/) ning [pandas](http://pandas.pydata.org/) andmete ettevalmistamiseks
 * [matplotlib](https://matplotlib.org/) visualiseerimiseks
-* [scikit-learn](http://scikit-learn.org/) masinõppeks.
+* [scikit-learn](http://scikit-learn.org/) klassikaliseks masinõppeks ja [tensorflow](https://www.tensorflow.org/) sügavõppeks.
 
 Muide, [Anaconda](https://www.continuum.io/downloads) on mugav Pythoni *distribution*, mis sisaldab kõiki standardseid andmeteaduse tööriistu, sh ülalnimetatud teeke. Väga kasulik tööriist on ka [Jupyter *notebook*id](http://jupyter.org/), mis võimaldavad Pythoni koodi interaktiivselt jupphaaval jooksutada.
 
-### Ressursid: R
+### R
 
-Kui sa ei ole kunagi programmeerinud, tahad ilmselt teha lühikese kursuse R-i tutvustava kursuse -- näiteks [selle](https://www.datacamp.com/courses/free-introduction-to-r) 4-tunnise interaktiivse e-kursuse DataCampilt.
+Andmeteadust R-is saab õppida Eesti keeles -- TÜ [statistilise andmeteaduse ja visualiseerimise](https://andmeteadus.github.io/2017/) aine (3EAP) materjalid on vabalt kättesaadavad ja väga hea sissejuhatus R-i kasutamisse andmeteaduseks. Kui sa ei ole kunagi R-i kasutanud, tahad ilmselt teha lühikese kursuse R-i tutvustava kursuse -- näiteks [selle](https://www.datacamp.com/courses/free-introduction-to-r) 4-tunnise interaktiivse e-kursuse DataCampilt.
 
-Kõige olulisem teek visualiseerimiseks on [ggplot2](http://ggplot2.org/) ja kuigi andmete ettevalmistamiseks saab kasutada palju tööriistu, on [dplyr](http://dplyr.tidyverse.org/) mõistlik esimene valik.
+Põhjalikum ja pikem (ingliskeelne) viis andmeteadust ja R-i õppida on Coursera [Data Science spetsialiseerumine](https://www.coursera.org/specializations/jhu-data-science) Johns Hopkinsi ülikoolilt.
 
-Uuri ka muid [Hadley Wickhami](http://hadley.nz/) loodud [pakette](https://barryrowlingson.github.io/hadleyverse/#1) -- need aitavad teha R-i oluliselt mugavamaks ja võimsamaks. Hadley on kirjutanud ka koodinäidetega e-raamatu [R for Data Science](http://r4ds.had.co.nz/).
+Kui tahad ilma kursusteta teemasse sisse hüpata, siis kõige olulisem teek visualiseerimiseks on [ggplot2](http://ggplot2.org/) ja kuigi andmete ettevalmistamiseks saab kasutada palju tööriistu, on [dplyr](http://dplyr.tidyverse.org/) mõistlik esimene valik. Ülalnimetatud eestikeelne kursus tutvustab mõlemat teeki. Ggploti ja dplyr'i autor [Hadley Wickhami](http://hadley.nz/) on loonud ka [hulga muid pakette](https://barryrowlingson.github.io/hadleyverse/#1) -- need aitavad teha R-i oluliselt mugavamaks ja võimsamaks. Hadley on kirjutanud ka koodinäidetega e-raamatu [R for Data Science](http://r4ds.had.co.nz/).

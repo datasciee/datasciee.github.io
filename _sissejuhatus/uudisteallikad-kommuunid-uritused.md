@@ -8,14 +8,16 @@ rank: 2
 
 ## Kommuunid ja üritused
 
+Motivatsiooni hoidmiseks tasub hoida ühendust teiste inimestega, kes Eestis ja maailmas andmeteadust rakendavad ja õpivad.
+
 * [**Data Science Estonia**](https://facebook.com/groups/datasci.ee) Facebooki grupis jagatakse (keskmiselt kord nädalas) Eesti andmeteadusega seonduvaid üritusi, uudiseid, tööpakkumisi ja igasugust muud nõu.
 * [**Machine Learning Estonia**](http://www.meetup.com/Machine-Learning-Estonia) on meetup.com grupp. Ligikaudu kord kahe kuu tagant toimub Tallinnas kokkusaamine, kus peetakse ettekandeid erinevatel masinõppega seonduvatel teemadel (vt varasemate kohtumiste sisu [siit](http://www.meetup.com/Machine-Learning-Estonia/events/past)). Varem on seal esinenud inimesed näiteks Skype'ist, TransferWise'ist, Starshipist, Adcashist, Pipedrive'ist ja ülikoolidest.
 * [**Tallinn.ai**](http://tallinn.city.ai/) kommuun -- kord kvartalis toimub Tallinnas kokkusaamine, kus peetakse ettekandeid tehisintellekti ja masinõppe rakenduslikust poolest.
-* Tartu ülikooli [Data Science Seminar](https://www.cs.ut.ee/et/uritused/data-science-seminar-deep-learning) katab erinevaid põnevaid teemasid andmeteaduses, seni näiteks sügavõpet, ärianalüüsi ja terviseandmeid.
+* Tartu ülikooli [**Data Science Seminar**](https://www.cs.ut.ee/et/uritused/data-science-seminar-deep-learning) katab erinevaid põnevaid teemasid andmeteaduses, seni näiteks sügavõpet, ärianalüüsi ja terviseandmeid.
 
 Kõige suurem rahvusvaheline andmeteadlaste kommuun on ilmselt [**Kaggle**](https://www.kaggle.com/), mille põhiline sisu on (rahaliste auhindadega!) võistlused põnevate päris maailma andmestike põhjal mudelite ehitamiseks.
 
-Välismaal toimuvatest konverentsidest lähim/suurim on sügisene [Nordic Data Science and Machine Learning Summit](http://www.nordicdatasciencesummit.com/) Stockholmis.
+Välismaal toimuvatest konverentsidest lähim/suurim on igasügisene [**Nordic Data Science and Machine Learning Summit**](http://www.nordicdatasciencesummit.com/) Stockholmis.
 
 
 ## Uudisteallikad
@@ -35,10 +37,3 @@ Kui käid Redditis, siis võid ka uurida:
 * [/r/datasets](https://www.reddit.com/r/datasets/)
 * [/r/statistics](https://www.reddit.com/r/statistics/)
 * [/r/dataviz](https://www.reddit.com/r/dataviz/)
-
-
-
------
-TODO võib-olla lisada:
-
-* Twitter: Data Science Central
