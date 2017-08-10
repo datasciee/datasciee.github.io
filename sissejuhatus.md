@@ -27,4 +27,5 @@ Allolev postituste sari on seni ainuke eestikeelne sissejuhatus andmeteaduse maa
 ------
 
 Panustajad:
-* [Taivo Pungas](https://pungas.ee)
+* [Taivo Pungas](https://www.linkedin.com/in/pungas/)
+* [Matleen Makko](https://www.linkedin.com/in/matleen-makko-b5354674/)
