@@ -20,16 +20,22 @@
 
       <div class="footer-col footer-col-2">
         <ul class="social-media-list">
+
+          <!-- https://blog.r3bl.me/en/simple-social-media-links-jekyll/ -->
           {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
+            <li>
+              <a href="https://github.com/{{ site.github_username }}">
+                <i class="fa fa-github"></i><span class="social-text">Github</span>
+              </a>
+            </li>
           {% endif %}
 
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
+          {% if site.facebook_link %}
+            <li>
+              <a href="{{ site.facebook_link }}">
+                <i class="fa fa-facebook social-icon"></i><span class="social-text">Facebook</span>
+              </a>
+            </li>
           {% endif %}
         </ul>
       </div>

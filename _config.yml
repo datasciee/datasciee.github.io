@@ -13,12 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Eesti andmeteadus
+title: Data Science Estonia
 description: > # this means to ignore newlines until "baseurl:"
-  Eesti andmeteaduse ressursid: kommuunid, blogid, õppematerjalid, ettevõtted.
+  Eesti andmeteaduse kommuun
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://datasci.ee" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  datasciee
+facebook_link:    https://www.facebook.com/groups/datasciee
 google_analytics: UA-37828611-8
 
 # Build settings
@@ -34,4 +35,15 @@ collections:
   sissejuhatus:
     output: true
     permalink: /:collection/:name
+  posts:
+    output: true
+    permalink: /post/:year/:month/:day/:title/
   projects:
+
+minima:
+  date_format: "%d.%m.%Y"
+
+authors:
+  taivop:
+    name: Taivo Pungas
+    web: https://pungas.ee

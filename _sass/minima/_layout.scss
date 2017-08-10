@@ -157,6 +157,9 @@
   }
 }
 
+.social-text {
+  margin-left: 0.25em;
+}
 
 
 /**
@@ -196,6 +199,10 @@
 
 .post-description {
   @include relative-font-size(1.0);
+}
+
+a.author-link {
+
 }
 
 /**
