@@ -25,6 +25,10 @@
   <script src="{{ page.custom_script | relative_url }}"></script>
   {% endif %}
 
+  <!-- Fonts and icons -->
+  <link href="https://fonts.googleapis.com/css?family=Signika" rel="stylesheet">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
   <!-- Favicons -->
   <link rel="apple-touch-icon" sizes="180x180" href="{{ "/assets/favicons/apple-touch-icon.png" | relative_url }}">
   <link rel="icon" type="image/png" href="{{ "/assets/favicons/favicon-32x32.png" sizes="32x32" | relative_url }}">
@@ -32,8 +36,9 @@
   <link rel="manifest" href="{{ "/assets/favicons/manifest.json" | relative_url }}">
   <link rel="mask-icon" href="{{ "/assets/favicons/safari-pinned-tab.svg" | relative_url }}" color="#5bbad5">
   <link rel="shortcut icon" href="{{ "/assets/favicons/favicon.ico" | relative_url }}">
-  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
   <meta name="msapplication-config" content="{{ "/assets/favicons/browserconfig.xml" | relative_url }}">
+
+  <!-- Theme color -->
   <meta name="theme-color" content="#ffffff">
   
   {% if jekyll.environment == 'production' and site.google_analytics %}
