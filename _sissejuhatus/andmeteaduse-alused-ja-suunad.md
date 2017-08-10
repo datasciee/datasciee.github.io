@@ -6,13 +6,11 @@ categories: sissejuhatus
 rank: 4
 ---
 
-Andmeteaduse kohta öeldakse, et see on interdistsiplinaarne ala, mis kõige suuremas osas sisaldab elemente arvutiteadusest (programmeerimisest ja statistikast).
-
-Toon allpool olulisuse järjekorras baasteadmised ja -oskused, mida andmeteadlasel vaja läheb.
+Andmeteaduse kohta öeldakse, et see on interdistsiplinaarne ala, mis kõige suuremas osas sisaldab elemente arvutiteadusest (programmeerimisest) ja matemaatikast/statistikast. Tegelikult on veel miljon oskust, mida andmeteadlasel vaja -- võid selles ise veenduda guugeldades "[*data science skills*](https://www.google.ch/search?q=data%20science%20skills)" -- aga allpool motiveerin, miks just programmeerimine ja matemaatika olulised on.
 
 ### Programmeerimine
 
-Igaüks saab panna arvuti käituma nii, nagu tahame -- pead lihtsalt kasutama klaviatuuri ja hiirt. Koodikirjutamine annab aga olulised eelised: esiteks saab selle kõik teha automaatselt (üht koodijuppi võib jooksutada miljoneid kordi ilma, et inimene kordagi sekkuks) ja teiseks on võimalik arendada sõna otseses mõttes enneolematuid asju (Facebook on nii eriline asi, et talle ei leidu mittevirtuaalset analoogi nii nagu osta.ee on virtuaalne oksjonikeskkond).
+Igaüks saab panna arvuti käituma nii, nagu tahame -- pead lihtsalt kasutama klaviatuuri ja hiirt. Koodikirjutamine annab aga olulised eelised: esiteks saab selle kõik teha automaatselt (üht koodijuppi võib jooksutada miljoneid kordi ilma, et inimene kordagi sekkuks) ja teiseks on võimalik arendada sõna otseses mõttes enneolematuid asju (Facebook on nii eriline asi, et talle ei leidu mittevirtuaalset analoogi nii nagu osta.ee on virtuaalne oksjonikeskkond). Sellest, mis tunne on programmeerida ja mida see annab, saad lugeda lähemalt [siit](https://pungas.ee/programmeerimine-tunded-ja-erialavalik/).
 
 Andmeteadlasele loeb eriti automatiseerimine: Excelit kasutada on lihtne, aga tihti peab seal käsitsi mõttetut tööd tegema -- näiteks juhul, kui sisendandmed muutuvad. Teine oluline eelis on reprodutseeritavus: kui jagan sulle R-i koodi, mida kasutasin mõne analüüsi läbiviimiseks, saad ise proovida, kas saad samad tulemused. See tähendab, et sul on lihtsam vigu üles leida ja minu koodi kasutades midagi veel põnevamat ehitada.
 
@@ -22,20 +20,15 @@ Keskkoolitasemel matemaatika ja statistika tundmine on andmeteadlasele miinimumn
 
 Tüüpiline arvutiteaduse või füüsika või keemia (ja kindlasti matemaatika või statistika) bakalaureus katab ära kogu matemaatika, mida on vaja masinõppe mõistmiseks. Need alad on, ligikaudu:
 
+* tõenäosusteooria (eriti Bayes'i seadus, *bias/variance trade-off*)
+* statistika (eriti levinumad jaotused ja jaotuste parameetrite hindamine)
 * algebra (eriti baasid, vektorruumid ja transformatsioonid)
 * mat. analüüs ehk *calculus* (eriti mitme muutuja analüüs)
-* tõenäosusteooria ja statistika (eriti Bayes'i seadus ja *bias/variance trade-off*)
 
-### Andmebaasid ja andmeformaadid
+Tõenäosusteooria aitab formaliseerida tõenäosusliku mõtlemise (Taivo on sellest kirjutanud ka [blogipostituse](https://pungas.ee/toenaosustes-motlemine/)) -- vastandina ettekujutusele, et sündmused kas juhtuvad või ei juhtu ja vahepealsed variandid ei ole võimalikud.
 
-Päris maailmas (loe: ettevõtetes) ei anna keegi sulle puhast .xlsx või .csv faili, kus kõik andmed on ilusti olemas -- pead need ise andmebaasidest kätte saama. Oskus SQL-päringuid kirjutada ja CSV, JSON või XML-formaadis olevaid andmeid sisse lugeda ja edasi töödelda on ilmselt kõige fundamentaalsemad, kuna SQL on levinuim andmebaasitehnoloogia ning CSV/JSON/XML on levinuimad andmevahetusformaadid.
+Statistika on masinõppe eelkäija: see aitab veidi väiksemal skaalal ja formaalsemalt uurida, mida saame öelda andmeid genereerivate protsesside kohta.
 
-See sektsioon on üsna madala prioriteediga, kuna programmeerimist ja statistikat tundes ei ole väga keeruline töökohal ära õppida, kuidas parasjagu vaja olevaid andmeid kätte saada.
+Algebra aitab mõista, mis üldse on andmed, kus nad elavad (vastus: vektorruumides) ja kuidas neid töödelda saab.
 
-
-
-
-Põhilised kontseptsioonid, mida andmeteadlasel vaja (matemaatika, stat, etc)
-Kui kriitilised need on? Kuidas 80-20'da? Millest alustada?
-
-vt https://docs.google.com/document/d/1FCKwc-D52WQFP1MhfHOhBrCSb2cp4FBi8Fzw4I6b6JY/edit
+Matemaatiline analüüs annab tööriistad, et automaatselt õppida, s.t. leida oma masinõppe süsteemile sellised parameetrid, mis annavad kõige parema tulemuse.
