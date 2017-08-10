@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Andmeteaduse rakendused ettevõtetes"
-description: "TODO lühikirjeldus"
+description: "Näited sellest, kuidas ettevõtted kasutavad andmeteadust paremate toodete tegemiseks."
 categories: sissejuhatus
 rank: 5
 ---
