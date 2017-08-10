@@ -25,6 +25,8 @@ Siin on üks erand: kui oled veendunud, et tahad tegeleda *hardcore* masinõppeg
 
 Projekt [Open Data Science Master's](http://datasciencemasters.org/) teeb väga põhjaliku kokkuvõtte kursustest, mis katavad andmeteadlase alusoskused (nii Pythonis kui R-is). Nimekiri on väga pikk ja võib uustulnukana olla hirmutav, mistõttu annan allpool oma soovitused alustamiseks.
 
+Kui oled tudeng Tartu ülikoolis (või saad sealt eksternina aineid võtta), võib sind aidata ka [see nimekiri](https://docs.google.com/document/d/1FRAV8exhZYKp6R0dgeiLKb5dXlapI-uehJ2yCUfstlk/edit) andmeteadusega seotud TÜ kursustest -- hüpoteetiline andmeteaduse kõrvaleriala Tartu ülikoolis.
+
 ### Python
 
 Eesti keeles ei ole Pythoni+andmeteaduse õppimiseks eriti materjale, aga inglise keeles alguse tegemiseks sobib näiteks [see Harvardi kursus](http://cs109.github.io/2015/). Masinõppega alustamiseks sobib klassikaline [Coursera Machine Learning kursus](https://www.coursera.org/learn/machine-learning) ja sügavõppe jaoks tuliuus [Coursera Deep Learning spetsialiseerumine](https://www.coursera.org/specializations/deep-learning).
