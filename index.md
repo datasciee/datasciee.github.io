@@ -18,5 +18,5 @@ Datasci.ee eesmärk on koondada ühte kohta kõik Eesti andmeteadust puudutav in
 <!-- TODO kui sissejuhatus valmis, siis anna link. Loe lähemalt sissejuhatavast seeriast. -->
 
 Andmeteadusel on kaks olulisemat suunda:
-* Andmeteadus **inimtarbimiseks**: ühekordsed analüüsid, ennustused, raportid ja visualiseeringud.
-* Andmeteadus **masintarbimiseks**: tehnoloogiasse ja toodetesse integreeritud komponendid, mis teevad süsteemi tervikuna intelligentsemaks.
+* Andmeteadus **inimtarbimiseks**: ühekordsed analüüsid, ennustused, raportid ja visualiseeringud. Seda nimetatakse ka ärianalüütikaks.
+* Andmeteadus **masintarbimiseks**: tehnoloogiasse ja toodetesse integreeritud komponendid, mis teevad süsteemi tervikuna intelligentsemaks. See sisaldab muuhulgas masinõppe ja sügavõppe meetodeid.
