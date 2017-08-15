@@ -28,6 +28,8 @@ Allolev postituste sari on seni ainuke eestikeelne sissejuhatus andmeteaduse maa
 
 ------
 
+<h3>Telli sissejuhatav seeria meilile:</h3>
+
 <div id="scrollto-signup-form">
 {% include intro_series_mailchimp_form.html %}
 </div>
