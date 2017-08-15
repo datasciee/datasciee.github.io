@@ -103,13 +103,3 @@ Siin on ettevõtted, mis mingil viisil kasutavad oma tegevuses andmeteadust (ja 
 * [**Telia**](https://www.telia.ee/ettevottest/uldinfo) on otsinud oma tiimi "analüütik-andmekaevurit" (2016).
 * [**TransferWise**](https://transferwise.com/)'is otsitakse aeg-ajalt andmeteadlase profiilile vastavaid inimesi Growth Analysti nime all kliendibaasi analüüsima ja kasvatama.
 * [**Xpressomics**](https://xpressomics.com/about/) ja [**Quretec**](http://www.quretec.com/) teevad rohkem teadusega (bioinformaatika ja terviseandmetega) seotud andmekaevet.
-
-
-## Panustajad
-* [Taivo Pungas](https://github.com/taivop)
-* [Priit Tamme](https://github.com/tammelv)
-* [Rauno Viskus](https://github.com/Rauno56)
-* [Tauno Metsalu](https://github.com/taunometsalu)
-* [Jaak Vilo](https://github.com/jaakvilo)
-* [Marko Vaik](https://github.com/vaikmarko)
-* [Tambet Matiisen](https://github.com/tambetm)
