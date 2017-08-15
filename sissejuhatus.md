@@ -7,6 +7,8 @@ permalink: /sissejuhatus/
  
 Allolev postituste sari on seni ainuke eestikeelne sissejuhatus andmeteaduse maailma. Iga tükk on piisavalt lühike, et 5 minutiga läbi lugeda, aga samas annab palju viiteid, et soovi korral rohkem detailidesse minna.
 
+**Kui sa kohe lugeda ei jõua, kliki [siia](#scrollto-signup-form), et saada sama info meili teel kord nädalas, kokku 7 postitust.**
+
 ------
 
 <ul class="post-list">
@@ -26,6 +28,6 @@ Allolev postituste sari on seni ainuke eestikeelne sissejuhatus andmeteaduse maa
 
 ------
 
-Panustajad:
-* [Taivo Pungas](https://www.linkedin.com/in/pungas/)
-* [Matleen Makko](https://www.linkedin.com/in/matleen-makko-b5354674/)
+<div id="scrollto-signup-form">
+{% include intro_series_mailchimp_form.html %}
+</div>
