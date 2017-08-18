@@ -23,7 +23,11 @@ Kumb siis valida? Järgnev on mõistlik rusikareegel:
 
 Siin on üks erand: kui oled veendunud, et tahad tegeleda peamiselt masinõppega (eriti sügavate neurovõrkudega), alusta Pythonist. Suur osa uusimatest ja põnevaimatest masinõppe meetoditest avaldatakse praegu ainult Pythonis ja kuna ala liigub nii kiiresti, ei ole samad teegid alati teistes keeltes saada.
 
-Võid otsustada ka oma eelistuse järgi: kui tahaksid tegeleda pigem [A-tüüpi](/sissejuhatus/mis-on-andmeteadus) andmeteadusega, alusta pigem R-ist; kui [B-tüüpi](/sissejuhatus/mis-on-andmeteadus) andmeteadusega, siis Pythonist.
+Võid otsustada ka oma eelistuse järgi: kui tahaksid tegeleda pigem [A-tüüpi](/sissejuhatus/mis-on-andmeteadus#a-tüüpi-ja-b-tüüpi-andmeteadlased) andmeteadusega, alusta pigem R-ist; kui [B-tüüpi](/sissejuhatus/mis-on-andmeteadus#a-tüüpi-ja-b-tüüpi-andmeteadlased) andmeteadusega, siis Pythonist.
+
+<div style="text-align: center;">
+<img src="/images/sketches/pythonr.svg" style="max-width: 400px;">
+</div>
 
 ## Ressursid
 

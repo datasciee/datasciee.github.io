@@ -26,6 +26,10 @@ Aga kui andmeteadus sisaldab nii paljusid erinevaid asju, siis kuidas erineb see
 
 ## A-tüüpi ja B-tüüpi andmeteadlased
 
+<div style="text-align: center;">
+<img src="/images/sketches/typeab.svg">
+</div>
+
 Ala heterogeensuse tõttu on ka võimatu anda üldist andmeteadlase töökirjeldust, mis kehtiks kõigile, aga kasulik on eristada [A-tüüpi ja B-tüüpi andmeteadlasi](https://www.dezyre.com/article/type-a-data-scientist-vs-type-b-data-scientist/194).
 
 **A-tüüpi** (nagu ***a**nalysis*) andmeteadlane töötab andmetega staatiliselt: teeb ühekordseid analüüse ja statistikat, kasutab domeeniteadmisi, tegeleb raporteerimisega -- aitab organisatsioonis toimuvast andmete abil aru saada ja seda parandada. Nii maailmas kui Eestis on A-tüüpi andmeteadlased enamuses ning A-tüüpi andmeteadus sisaldab endas palju mittetehnilist tööd (äriprobleemidest arusaamine, suhtlemine, tulemuste kommunikeerimine jne).

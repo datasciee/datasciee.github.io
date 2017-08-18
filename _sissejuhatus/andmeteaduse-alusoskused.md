@@ -8,6 +8,11 @@ rank: 4
 
 Andmeteaduse kohta öeldakse, et see on interdistsiplinaarne ala, mis kõige suuremas osas sisaldab elemente arvutiteadusest (programmeerimisest) ja matemaatikast/statistikast. Tegelikult on veel miljon oskust, mida andmeteadlasel vaja -- võid selles ise veenduda guugeldades "[*data science skills*](https://www.google.ch/search?q=data%20science%20skills)" -- aga allpool motiveerin, miks just programmeerimine ja matemaatika olulised on.
 
+<div style="text-align: center;">
+<img src="/images/sketches/baseskills.svg" style="max-width: 400px;">
+</div>
+
+
 ### Programmeerimine
 
 Igaüks saab panna arvuti käituma nii, nagu tahame -- pead lihtsalt kasutama klaviatuuri ja hiirt. Koodikirjutamine annab aga olulised eelised: esiteks saab selle kõik teha automaatselt (üht koodijuppi võib jooksutada miljoneid kordi ilma, et inimene kordagi sekkuks) ja teiseks on võimalik arendada sõna otseses mõttes enneolematuid asju (Facebook on nii eriline asi, et talle ei leidu mittevirtuaalset analoogi nii nagu osta.ee on virtuaalne oksjonikeskkond). Sellest, mis tunne on programmeerida ja mida see annab, saad lugeda lähemalt [siit](https://pungas.ee/programmeerimine-tunded-ja-erialavalik/).

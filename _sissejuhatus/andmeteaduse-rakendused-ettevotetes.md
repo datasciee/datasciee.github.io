@@ -22,6 +22,11 @@ Andmete visualiseerimiseks on turul olemas suurepäraseid eraldiseisvaid rakendu
  
 All on mõned näited edukatest andmeteaduse rakendustest äris.
 
+<div style="text-align: center;">
+<img src="/images/sketches/cashmoney.svg" style="max-width: 400px;">
+</div>
+
+
 ## Veebipoed ja reklaam
 
 Sihitud reklaamide ja tootepakkumiste loomisel aitab andmeteadus leida mustreid tarbijagruppide käitumises – klikkides, ostudes ja muudes tarbijakäitumise indikaatorites.  Kõige tuntum näide on Amazoni veebipoe soovitusmootor, mis teeb varem vaadatud ja ostetud toodete põhjal soovitusi uute asjade ostmiseks. Soovitusmootorid kasutavad erinevaid mitmeklassilisi klassifitseerimise mudeleid nagu logistiline regressioon, tugivektorklassifitseerija ja otsustuspuu või otsustusmets; populaarne variant on ka maatriksi faktoriseerimine (*matrix factorisation*).

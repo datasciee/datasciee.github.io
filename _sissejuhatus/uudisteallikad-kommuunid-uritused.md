@@ -19,6 +19,10 @@ Kõige suurem rahvusvaheline andmeteadlaste kommuun on ilmselt [**Kaggle**](http
 
 Välismaal toimuvatest konverentsidest lähim/suurim on igasügisene [**Nordic Data Science and Machine Learning Summit**](http://www.nordicdatasciencesummit.com/) Stockholmis.
 
+<div style="text-align: center;">
+<img src="/images/sketches/community.svg" style="max-width: 400px;">
+</div>
+
 
 ## Uudisteallikad
 
