@@ -101,5 +101,6 @@ Siin on ettevõtted, mis mingil viisil kasutavad oma tegevuses andmeteadust (ja 
 * [**Swedbank**](https://www.swedbank.ee/about/work)i Customer Value Management ärisuuna all on 6 inimesega andmeanalüüsi osakond.
 * [**Teleport.org**](https://teleport.org/) kasutab maakera erinevaid andmekihte, et aidata inimestel optimeerida oma elukohta.
 * [**Telia**](https://www.telia.ee/ettevottest/uldinfo) on otsinud oma tiimi "analüütik-andmekaevurit" (2016).
+* [**Titanium Systems**](https://www.titaniumsystems.com/)is töötab vähemalt üks andmeteadlane autorendiga seotud andmete kallal.
 * [**TransferWise**](https://transferwise.com/)'is otsitakse aeg-ajalt andmeteadlase profiilile vastavaid inimesi Growth Analysti nime all kliendibaasi analüüsima ja kasvatama.
 * [**Xpressomics**](https://xpressomics.com/about/) ja [**Quretec**](http://www.quretec.com/) teevad rohkem teadusega (bioinformaatika ja terviseandmetega) seotud andmekaevet.
