@@ -11,7 +11,7 @@ rank: 0
 See definitsioon on üsna umbmäärane, sest praegu pole definitsioon päris selgelt välja kujunenud, aga näited aitavad arusaamisele kaasa. Andmeteadust kasutavad näiteks:
 
 * AirBnB mõistlike üürihindade [soovitamiseks](https://medium.com/airbnb-engineering/aerosolve-machine-learning-for-humans-55efcf602665),
-* arstid koepiltidest vähirakkude [tuvastamiseks](https://www.google.ch/search?q=cancer%20cell%20segmentation), TODO
+* arstid koepiltidest vähirakkude [tuvastamiseks](https://www.google.ch/search?q=cancer%20cell%20segmentation),
 * TransferWise pettuse [tuvastamiseks](https://docs.google.com/presentation/d/1BuqwFXQG0H6OIkK99PtXkEEYth3AWFIvzSZsaUg-cqE/edit#slide=id.p),
 * kokandushuvilised toiduainete sarnasuse [analüüsiks](https://jaan.io/food2vec-augmented-cooking-machine-intelligence/),
 * Eesti e-residentsuse tiim oma progressi [jälgimiseks](https://app.cyfe.com/dashboards/195223/5587fe4e52036102283711615553).
