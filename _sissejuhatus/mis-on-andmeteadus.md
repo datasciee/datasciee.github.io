@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_intro
 title:  "Mis on andmeteadus?"
 description: "Definitsioon, eesmärk ja hulk näiteid."
 categories: sissejuhatus

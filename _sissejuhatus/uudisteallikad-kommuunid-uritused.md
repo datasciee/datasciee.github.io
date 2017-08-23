@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_intro
 title:  "Uudisteallikad, kommuunid ja üritused"
 description: "Parimad viisid, et leida uusi tuttavaid ning infot Eestis toimuva kohta."
 categories: sissejuhatus

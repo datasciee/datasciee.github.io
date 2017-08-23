@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_intro
 title:  "Mis edasi?"
 description: "Teooria on nüüd olemas. Mis on järgmised sammud?"
 categories: sissejuhatus

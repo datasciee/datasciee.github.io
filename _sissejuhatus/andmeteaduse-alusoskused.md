@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_intro
 title:  "Andmeteaduse alusoskused"
 description: "Miks kõik ütlevad, et andmeteadus on segu programmeerimisest ja statistikast."
 categories: sissejuhatus

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_intro
 title:  "Andmeteadlase töö praktikas: tehnoloogiad ja tööülesanded"
 description: "Statistika selle kohta, milliseid tehnoloogiaid enim kasutatakse ja mida andmeteadlased ise oma tööülesannete kohta ütlevad."
 categories: sissejuhatus

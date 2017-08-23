@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_intro
 title:  "Käed külge: kuidas alustada andmeteadusega"
 description: "Ülikoolikursused ja MOOCid ning olulisemad tehnoloogiad -- näiteks Pythoni ja R-i vahel valimine."
 categories: sissejuhatus

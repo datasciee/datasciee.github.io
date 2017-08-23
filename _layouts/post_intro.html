@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+<div class="post">
+
+	<h1>{{ page.title }}</h1>
+	<h3 style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif;">{{ page.description }}</h3>
+  
+  	{{ content }}
+
+
+  	<!-- TODO Finding prev and next post doesn't work because sorting is done as strings, not as integers-->
+  	{% assign posts_sorted = site.sissejuhatus | sort:"rank" %}
+
+  	{% for post in posts_sorted %}
+	  	{% if post.rank == page.rank %}
+	  		{% assign prev_idx = forloop.index0 | minus: 1 %}
+  			{% assign next_idx = forloop.index0 | plus: 1 %}
+	  	{% endif %}
+  	{% endfor %}
+
+  	{% if prev_idx > -1 %}
+  		{% assign prev_post = posts_sorted[prev_idx] %}
+  	{% endif %}
+  	{% assign next_post = posts_sorted[next_idx] %}
+
+	<div class="post-navigation-links">
+	  {% if prev_post.url %}
+	    <a class="prev" href="{{prev_post.url}}"><b>Tagasi:</b> {{prev_post.title}}</a>
+	  {% endif %}
+	  {% if next_post.url %}
+	   	<a class="next" href="{{next_post.url}}"><b>Edasi: </b>{{next_post.title}}</a>
+	  {% endif %}
+	</div>
+
+</div>

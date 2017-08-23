@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_intro
 title:  "Andmeteaduse rakendused ettevõtetes"
 description: "Näited sellest, kuidas ettevõtted kasutavad andmeteadust paremate toodete tegemiseks."
 categories: sissejuhatus
