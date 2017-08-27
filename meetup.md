@@ -1,6 +1,6 @@
 ---
 layout: redirected
 sitemap: false
-permalink: /event/
+permalink: /meetup/
 redirect_to:  https://www.facebook.com/events/167333777145938
 ---
