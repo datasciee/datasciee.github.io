@@ -14,12 +14,14 @@ $base-line-height: 1.5;
 $spacing-unit:     30px;
 
 $text-color:       #111;
-$background-color: #fdfdfd;
+$background-color: #ffffff;
 $brand-color:      #2a7ae2;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
+
+$datasci-purple:   #575691;
 
 // Width of the content area
 $content-width:    800px;
@@ -43,8 +45,8 @@ $on-laptop:        800px;
 }
 
 body {
-	background-image: url("../images/page_header.svg");
-	padding-top: 100px !important;
+	/*background-image: url("../images/page_header.svg");
+	padding-top: 100px !important;*/
 	background-size: auto 100px;
 	background-repeat: repeat-x;
 }

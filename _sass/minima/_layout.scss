@@ -2,6 +2,10 @@ h1, h2, h3, h4, h5, h6 {
   font-family: $title-font-family;
 }
 
+a, a:link, a:visited, a:hover, a:active {
+  color: $datasci-purple;
+}
+
 
 
 /**
@@ -14,6 +18,11 @@ h1, h2, h3, h4, h5, h6 {
 
   // Positioning context for the mobile navigation icon
   position: relative;
+
+  // Background
+  background-image: url("/cover_photo/new/datascimeetup.jpg");
+  background-repeat: no-repeat;
+
 }
 
 .site-title {
@@ -23,16 +32,18 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
+  font-family: $title-font-family;
 
   &,
   &:visited {
-    color: $grey-color-dark;
+    color: $datasci-purple;
   }
 }
 
 .site-nav {
   float: right;
   line-height: $base-line-height * $base-font-size * 2.25;
+  font-family: $title-font-family;
 
   .menu-icon {
     display: none;
