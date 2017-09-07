@@ -33,10 +33,14 @@ a, a:link, a:visited, a:hover, a:active {
   margin-bottom: 0;
   float: left;
   font-family: $title-font-family;
+  padding-bottom: 0;
+  padding-left: 6px;
+  padding-right: 6px;
+  border-bottom: 3px solid black;
 
-  &,
-  &:visited {
-    color: $datasci-purple;
+  &, &:visited, &:link, &:hover {
+    color: black;
+    text-decoration: none;
   }
 }
 
