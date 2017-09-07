@@ -26,8 +26,12 @@ a, a:link, a:visited, a:hover, a:active {
 }
 
 .site-title {
+  &, &:visited, &:link, &:hover {
+    color: black;
+    text-decoration: none;
+  }
+
   @include relative-font-size(1.625);
-  font-weight: 300;
   line-height: $base-line-height * $base-font-size * 2.25;
   letter-spacing: -1px;
   margin-bottom: 0;
@@ -37,11 +41,6 @@ a, a:link, a:visited, a:hover, a:active {
   padding-left: 6px;
   padding-right: 6px;
   border-bottom: 3px solid black;
-
-  &, &:visited, &:link, &:hover {
-    color: black;
-    text-decoration: none;
-  }
 }
 
 .site-nav {
