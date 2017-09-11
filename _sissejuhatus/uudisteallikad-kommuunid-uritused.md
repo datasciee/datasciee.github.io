@@ -14,6 +14,7 @@ Motivatsiooni hoidmiseks tasub hoida ühendust teiste inimestega, kes Eestis ja 
 * [**Machine Learning Estonia**](http://www.meetup.com/Machine-Learning-Estonia) on meetup.com grupp. Ligikaudu kord kahe kuu tagant toimub Tallinnas kokkusaamine, kus peetakse ettekandeid erinevatel masinõppega seonduvatel teemadel (vt varasemate kohtumiste sisu [siit](http://www.meetup.com/Machine-Learning-Estonia/events/past)). Varem on seal esinenud inimesed näiteks Skype'ist, TransferWise'ist, Starshipist, Adcashist, Pipedrive'ist ja ülikoolidest.
 * [**Tallinn.ai**](http://tallinn.city.ai/) kommuun -- kord kvartalis toimub Tallinnas kokkusaamine, kus peetakse ettekandeid tehisintellekti ja masinõppe rakenduslikust poolest.
 * Tartu ülikooli [**Data Science Seminar**](https://www.cs.ut.ee/et/uritused/data-science-seminar-deep-learning) katab erinevaid põnevaid teemasid andmeteaduses, seni näiteks sügavõpet, ärianalüüsi ja terviseandmeid.
+* [**Garage48 Open & Big data**](http://garage48.org/events/) häkatonid on hea viis 48 tunni jooksul tiimiga mõni andmeteaduse projekt valmis teha.
 
 Kõige suurem rahvusvaheline andmeteadlaste kommuun on ilmselt [**Kaggle**](https://www.kaggle.com/), mille põhiline sisu on (rahaliste auhindadega!) võistlused põnevate päris maailma andmestike põhjal mudelite ehitamiseks.
 
