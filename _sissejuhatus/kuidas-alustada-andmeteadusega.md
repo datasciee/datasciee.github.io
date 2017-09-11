@@ -37,7 +37,7 @@ Kui oled tudeng Tartu ülikoolis (või saad sealt eksternina aineid võtta), võ
 
 ### Python
 
-Eesti keeles ei ole Pythoni+andmeteaduse õppimiseks eriti materjale, aga inglise keeles alguse tegemiseks sobib näiteks [see Harvardi kursus](http://cs109.github.io/2015/). Masinõppega alustamiseks sobib klassikaline [Coursera Machine Learning kursus](https://www.coursera.org/learn/machine-learning) ja sügavõppe (*deep learning*) jaoks tuliuus [Coursera Deep Learning spetsialiseerumine](https://www.coursera.org/specializations/deep-learning).
+Eesti keeles ei ole Pythoni+andmeteaduse õppimiseks eriti materjale, aga inglise keeles alguse tegemiseks sobib näiteks [see Harvardi kursus](http://cs109.github.io/2015/). Masinõppega alustamiseks sobib klassikaline [Coursera Machine Learning kursus](https://www.coursera.org/learn/machine-learning) ja sügavõppe (*deep learning*) jaoks tuliuus [Coursera Deep Learning spetsialiseerumine](https://www.coursera.org/specializations/deep-learning). Kui tahad õppida lihtsalt Pythonit (ilma andmeteadusele keskendumata), vaata kursust [Programmeerimine maalähedaselt](http://programmeerimine.ut.ee/) ja selle järgi.
 
 Kõige olulisemad teegid on:
 * [**numpy**](http://www.numpy.org/) ning [**pandas**](http://pandas.pydata.org/) andmete ettevalmistamiseks
