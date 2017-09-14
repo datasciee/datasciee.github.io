@@ -21,6 +21,7 @@ Ideed põnevate praktiliste projektide jaoks.
 * [**Data Science Estonia**](https://facebook.com/groups/datasci.ee) Facebooki grupp -- siin jagatakse (inglise keeles ja tüüpiliselt vähem kui kord nädalas) Eesti andmeteadusega seonduvaid üritusi, uudiseid, tööpakkumisi ja nõu.
 * [**Machine Learning Estonia**](http://www.meetup.com/Machine-Learning-Estonia) meetup.com grupp -- ligikaudu kord kahe kuu tagant toimub kokkusaamine, kus peetakse ettekandeid erinevatel masinõppega seonduvatel teemadel (vt varasemate kohtumiste sisu [siit](http://www.meetup.com/Machine-Learning-Estonia/events/past)).
 * [**Tallinn.ai**](http://tallinn.city.ai/) kommuun -- kord kvartalis toimub kokkusaamine, kus peetakse ettekandeid tehisintellekti ja masinõppe rakenduslikust poolest.
+* [Garage48 Open & Big Data](http://garage48.org/events/) häkatonid on hea viis 48 tunni jooksul tiimiga mõni andmeteaduse projekt valmis teha.
 
 ## Blogid
 
