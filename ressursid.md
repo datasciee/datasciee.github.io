@@ -100,6 +100,7 @@ Siin on ettevõtted, mis mingil viisil kasutavad oma tegevuses andmeteadust (ja 
 * [**STACC**](http://www.stacc.ee/et) lahendab ettevõtete andmeanalüüsi ülesandeid, näiteks personaalmeditsiini, tekstikaeve ja äriprotsesside optimeerimise alal.
 * [**Starship**](https://www.starship.xyz/) kasutab masinõpet, et isesõitvaid pakiroboteid kontrollida.
 * [**Swedbank**](https://www.swedbank.ee/about/work)i Customer Value Management ärisuuna all on 6 inimesega andmeanalüüsi osakond.
+* [**Taxify**](https://taxify.eu/careers/) teeb andmeteadust erinevate kaardi- ja kasutajaandmete peal.
 * [**Teleport.org**](https://teleport.org/) kasutab maakera erinevaid andmekihte, et aidata inimestel optimeerida oma elukohta.
 * [**Telia**](https://www.telia.ee/ettevottest/uldinfo) on otsinud oma tiimi "analüütik-andmekaevurit" (2016).
 * [**Titanium Systems**](https://www.titaniumsystems.com/)is töötab vähemalt üks andmeteadlane autorendiga seotud andmete kallal.
