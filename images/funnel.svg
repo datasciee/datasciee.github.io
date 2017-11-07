@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="800px" height="400px" viewBox="0 0 800 400" enable-background="new 0 0 800 400" xml:space="preserve">
+<g>
+	<g id="XMLID_1_">
+		<g>
+			<polygon fill="#C6E0A6" points="467.36,323 467.36,362 281.65,362 281.65,323 236.65,258.95 511.46,258.95 512.06,259.37 			"/>
+			<polygon fill="#FFE081" points="650,63 601.5,132.05 147.51,132.05 99,63 			"/>
+			<polygon fill="#FEF5A0" points="601.5,132.05 558.46,193.32 558,193 190.33,193 190.32,193 147.51,132.05 			"/>
+			<polygon fill="#E5EB9D" points="558.46,193.32 512.06,259.37 511.46,258.95 236.65,258.95 190.33,193 558,193 			"/>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 305.041 108)" font-family="'Signika-Regular'" font-size="30">Awareness</text>
+<text transform="matrix(1 0 0 1 324.1655 171)" font-family="'Signika-Regular'" font-size="30">Interest</text>
+<text transform="matrix(1 0 0 1 309.8857 237)" font-family="'Signika-Regular'" font-size="30">Education</text>
+<text transform="matrix(1 0 0 1 303.6758 321)" font-family="'Signika-Regular'" font-size="30">Experience</text>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-width="5" stroke-miterlimit="10" x1="698" y1="63" x2="698" y2="351.235"/>
+		<g>
+			<polygon points="690.521,349.047 698,362 705.479,349.047 			"/>
+		</g>
+	</g>
+</g>
+</svg>
