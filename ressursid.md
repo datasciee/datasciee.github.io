@@ -96,6 +96,7 @@ Siin on ettevõtted, mis mingil viisil kasutavad oma tegevuses andmeteadust (ja 
 * [**Nortal**](https://nortal.com/) on otsinud andmeteadlast oma Omaani kontorisse (2015).
 * [**Planet OS**](https://planetos.com/company/) tegeleb geoandmete infrastruktuuri ja analüüsiga.
 * [**Proekspert**](https://www.proekspert.ee/) tegeleb tarkade seadmete ning ärianalüüsiga.
+* [**SIFR**](http://www.sifr.ai/) tegeleb andmeteaduse konsultatsiooni ja arendusteenuse pakkumisega ettevõtetele.
 * [**Skype**](https://www.skype.com/en/)'is tehakse andmeteadust erinevates tiimides -- näiteks kõne kvaliteedi parandamiseks, aga ka pettuse vältimise ja maksete osas.
 * [**STACC**](http://www.stacc.ee/et) lahendab ettevõtete andmeanalüüsi ülesandeid, näiteks personaalmeditsiini, tekstikaeve ja äriprotsesside optimeerimise alal.
 * [**Starship**](https://www.starship.xyz/) kasutab masinõpet, et isesõitvaid pakiroboteid kontrollida.
