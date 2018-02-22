@@ -86,11 +86,11 @@ Siin on ettevõtted, mis mingil viisil kasutavad oma tegevuses andmeteadust (ja 
 * [**Centar**](http://centar.ee/) kasutab majandusanalüüside tegemisel ka kvantitatiivseid meetodeid.
 * [**Datafruit**](http://datafruit.ee/) tegelevad andmete laadimise, analüüsi ja raporteerimise alase konsultatsiooniga.
 * [**DataMe**](http://datame.eu/) koondab eraisikute maksekäitumist ja laene puudutavaid andmeid ning tegeleb nende andmete töötlemisega.
+* [**DigiVikings**](http://digivikings.ee/) rakendab andmekaevet ja masinõpet ärianalüütikas.
 * [**Eesti Energia**](https://www.energia.ee/et/avaleht) Energiamüügi alaüksuses analüüsitakse “klientide liikumist, klientide profiilide segmenteerimist ja tulevikutehingute hinnastamist” (allikas: praktikapakkumine tudengitele).
 * [**Funderbeam**](https://funderbeam.com/) analüüsib idufirmasid ja tegeleb andmeteadusega.
 * [**Inforegister**](https://www.inforegister.ee/) on otsinud oma tiimi andmeteadurit (2016).
 * [**Jobbatical**](https://www.jobbatical.com/) kausutab oma andmeid erinevates peamiselt soovitustega(kasutaja-tööpakkumine ja vastupidi) seotud probleemides.
-* [**Kaya Consulting**](http://kaya-consulting.com/) rakendab andmekaevet ja masinõpet ärianalüütikas.
 * [**Mooncascade**](https://mooncascade.com/)'is on kasvav andmeteaduse üksus, mis tegeleb andmeanalüüsi tellimuslahendustega.
 * [**Neste**](http://www.neste.ee/ee) on otsinud oma tiimi andmeteadlast (2016).
 * [**Nortal**](https://nortal.com/) on otsinud andmeteadlast oma Omaani kontorisse (2015).
